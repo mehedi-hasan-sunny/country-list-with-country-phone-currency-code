@@ -1,11 +1,11 @@
 /*
-  This css file is directly copied from http://country.io/ . All the credit goes to counrty.io. Please make sure you credit country.io.
+  This css file is directly copied from http://country.io/ . All the credit goes to country.io. Please make sure you credit country.io.
 */
 
 .flag {
 	width: 16px;
 	height: 11px;
-	background:url(../flags.png) no-repeat; /*make sure to change flags.png file location*/
+	background:url(./flags.png) no-repeat 0 0; /*make sure to change flags.png file location*/
 	no-repeat 0 0;
 	margin-right: .3em;
 	display: inline-block;
