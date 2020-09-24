@@ -1,2252 +1,2002 @@
-[
-  {
-    "countryCode": "AD",
-    "countryName": "Andorra",
-    "capital": "Andorra la Vella",
-    "phoneCode": "+376",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "AND"
-  },
-  {
-    "countryCode": "AE",
-    "countryName": "United Arab Emirates",
-    "capital": "Abu Dhabi",
-    "phoneCode": "+971",
-    "continentCode": "AS",
-    "currencyCode": "AED",
-    "iso3Code": "ARE"
-  },
-  {
-    "countryCode": "AF",
-    "countryName": "Afghanistan",
-    "capital": "Kabul",
-    "phoneCode": "+993",
-    "continentCode": "AS",
-    "currencyCode": "AFN",
-    "iso3Code": "AFG"
-  },
-  {
-    "countryCode": "AG",
-    "countryName": "Antigua and Barbuda",
-    "capital": "St. John's",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "XCD",
-    "iso3Code": "ATG"
-  },
-  {
-    "countryCode": "AI",
-    "countryName": "Anguilla",
-    "capital": "The Valley",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "XCD",
-    "iso3Code": "AIA"
-  },
-  {
-    "countryCode": "AL",
-    "countryName": "Albania",
-    "capital": "Tirana",
-    "phoneCode": "+355",
-    "continentCode": "EU",
-    "currencyCode": "ALL",
-    "iso3Code": "ALB"
-  },
-  {
-    "countryCode": "AM",
-    "countryName": "Armenia",
-    "capital": "Yerevan",
-    "phoneCode": "+374",
-    "continentCode": "AS",
-    "currencyCode": "AMD",
-    "iso3Code": "ARM"
-  },
-  {
-    "countryCode": "AO",
-    "countryName": "Angola",
-    "capital": "Luanda",
-    "phoneCode": "+244",
-    "continentCode": "AF",
-    "currencyCode": "AOA",
-    "iso3Code": "AGO"
-  },
-  {
-    "countryCode": "AQ",
-    "countryName": "Antarctica",
-    "capital": "",
-    "phoneCode": "+672",
-    "continentCode": "AN",
-    "currencyCode": "",
-    "iso3Code": "ATA"
-  },
-  {
-    "countryCode": "AR",
-    "countryName": "Argentina",
-    "capital": "Buenos Aires",
-    "phoneCode": "+54",
-    "continentCode": "SA",
-    "currencyCode": "ARS",
-    "iso3Code": "ARG"
-  },
-  {
-    "countryCode": "AS",
-    "countryName": "American Samoa",
-    "capital": "Pago Pago",
-    "phoneCode": "+1",
-    "continentCode": "OC",
-    "currencyCode": "USD",
-    "iso3Code": "ASM"
-  },
-  {
-    "countryCode": "AT",
-    "countryName": "Austria",
-    "capital": "Vienna",
-    "phoneCode": "+43",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "AUT"
-  },
-  {
-    "countryCode": "AU",
-    "countryName": "Australia",
-    "capital": "Canberra",
-    "phoneCode": "+61",
-    "continentCode": "OC",
-    "currencyCode": "AUD",
-    "iso3Code": "AUS"
-  },
-  {
-    "countryCode": "AW",
-    "countryName": "Aruba",
-    "capital": "Oranjestad",
-    "phoneCode": "+297",
-    "continentCode": "NA",
-    "currencyCode": "AWG",
-    "iso3Code": "ABW"
-  },
-  {
-    "countryCode": "AX",
-    "countryName": "Aland Islands",
-    "capital": "Mariehamn",
-    "phoneCode": "+358",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "ALA"
-  },
-  {
-    "countryCode": "AZ",
-    "countryName": "Azerbaijan",
-    "capital": "Baku",
-    "phoneCode": "+994",
-    "continentCode": "AS",
-    "currencyCode": "AZN",
-    "iso3Code": "AZE"
-  },
-  {
-    "countryCode": "BA",
-    "countryName": "Bosnia and Herzegovina",
-    "capital": "Sarajevo",
-    "phoneCode": "+387",
-    "continentCode": "EU",
-    "currencyCode": "BAM",
-    "iso3Code": "BIH"
-  },
-  {
-    "countryCode": "BB",
-    "countryName": "Barbados",
-    "capital": "Bridgetown",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "BBD",
-    "iso3Code": "BRB"
-  },
-  {
-    "countryCode": "BD",
-    "countryName": "Bangladesh",
-    "capital": "Dhaka",
-    "phoneCode": "+880",
-    "continentCode": "AS",
-    "currencyCode": "BDT",
-    "iso3Code": "BGD"
-  },
-  {
-    "countryCode": "BE",
-    "countryName": "Belgium",
-    "capital": "Brussels",
-    "phoneCode": "+32",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "BEL"
-  },
-  {
-    "countryCode": "BF",
-    "countryName": "Burkina Faso",
-    "capital": "Ouagadougou",
-    "phoneCode": "+226",
-    "continentCode": "AF",
-    "currencyCode": "XOF",
-    "iso3Code": "BFA"
-  },
-  {
-    "countryCode": "BG",
-    "countryName": "Bulgaria",
-    "capital": "Sofia",
-    "phoneCode": "+359",
-    "continentCode": "EU",
-    "currencyCode": "BGN",
-    "iso3Code": "BGR"
-  },
-  {
-    "countryCode": "BH",
-    "countryName": "Bahrain",
-    "capital": "Manama",
-    "phoneCode": "+973",
-    "continentCode": "AS",
-    "currencyCode": "BHD",
-    "iso3Code": "BHR"
-  },
-  {
-    "countryCode": "BI",
-    "countryName": "Burundi",
-    "capital": "Bujumbura",
-    "phoneCode": "+257",
-    "continentCode": "AF",
-    "currencyCode": "BIF",
-    "iso3Code": "BDI"
-  },
-  {
-    "countryCode": "BJ",
-    "countryName": "Benin",
-    "capital": "Porto-Novo",
-    "phoneCode": "+229",
-    "continentCode": "AF",
-    "currencyCode": "XOF",
-    "iso3Code": "BEN"
-  },
-  {
-    "countryCode": "BL",
-    "countryName": "Saint Barthelemy",
-    "capital": "Gustavia",
-    "phoneCode": "+590",
-    "continentCode": "NA",
-    "currencyCode": "EUR",
-    "iso3Code": "BLM"
-  },
-  {
-    "countryCode": "BM",
-    "countryName": "Bermuda",
-    "capital": "Hamilton",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "BMD",
-    "iso3Code": "BMU"
-  },
-  {
-    "countryCode": "BN",
-    "countryName": "Brunei",
-    "capital": "Bandar Seri Begawan",
-    "phoneCode": "+673",
-    "continentCode": "AS",
-    "currencyCode": "BND",
-    "iso3Code": "BRN"
-  },
-  {
-    "countryCode": "BO",
-    "countryName": "Bolivia",
-    "capital": "Sucre",
-    "phoneCode": "+591",
-    "continentCode": "SA",
-    "currencyCode": "BOB",
-    "iso3Code": "BOL"
-  },
-  {
-    "countryCode": "BQ",
-    "countryName": "Bonaire, Sint Eustatius and Saba",
-    "capital": "",
-    "phoneCode": "+599",
-    "continentCode": "NA",
-    "currencyCode": "USD",
-    "iso3Code": "BES"
-  },
-  {
-    "countryCode": "BR",
-    "countryName": "Brazil",
-    "capital": "Brasilia",
-    "phoneCode": "+55",
-    "continentCode": "SA",
-    "currencyCode": "BRL",
-    "iso3Code": "BRA"
-  },
-  {
-    "countryCode": "BS",
-    "countryName": "Bahamas",
-    "capital": "Nassau",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "BSD",
-    "iso3Code": "BHS"
-  },
-  {
-    "countryCode": "BT",
-    "countryName": "Bhutan",
-    "capital": "Thimphu",
-    "phoneCode": "+975",
-    "continentCode": "AS",
-    "currencyCode": "BTN",
-    "iso3Code": "BTN"
-  },
-  {
-    "countryCode": "BV",
-    "countryName": "Bouvet Island",
-    "capital": "",
-    "phoneCode": "",
-    "continentCode": "AN",
-    "currencyCode": "NOK",
-    "iso3Code": "BVT"
-  },
-  {
-    "countryCode": "BW",
-    "countryName": "Botswana",
-    "capital": "Gaborone",
-    "phoneCode": "+267",
-    "continentCode": "AF",
-    "currencyCode": "BWP",
-    "iso3Code": "BWA"
-  },
-  {
-    "countryCode": "BY",
-    "countryName": "Belarus",
-    "capital": "Minsk",
-    "phoneCode": "+375",
-    "continentCode": "EU",
-    "currencyCode": "BYR",
-    "iso3Code": "BLR"
-  },
-  {
-    "countryCode": "BZ",
-    "countryName": "Belize",
-    "capital": "Belmopan",
-    "phoneCode": "+501",
-    "continentCode": "NA",
-    "currencyCode": "BZD",
-    "iso3Code": "BLZ"
-  },
-  {
-    "countryCode": "CA",
-    "countryName": "Canada",
-    "capital": "Ottawa",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "CAD",
-    "iso3Code": "CAN"
-  },
-  {
-    "countryCode": "CC",
-    "countryName": "Cocos Islands",
-    "capital": "West Island",
-    "phoneCode": "+61",
-    "continentCode": "AS",
-    "currencyCode": "AUD",
-    "iso3Code": "CCK"
-  },
-  {
-    "countryCode": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "capital": "Kinshasa",
-    "phoneCode": "+243",
-    "continentCode": "AF",
-    "currencyCode": "CDF",
-    "iso3Code": "COD"
-  },
-  {
-    "countryCode": "CF",
-    "countryName": "Central African Republic",
-    "capital": "Bangui",
-    "phoneCode": "+236",
-    "continentCode": "AF",
-    "currencyCode": "XAF",
-    "iso3Code": "CAF"
-  },
-  {
-    "countryCode": "CG",
-    "countryName": "Republic of the Congo",
-    "capital": "Brazzaville",
-    "phoneCode": "+242",
-    "continentCode": "AF",
-    "currencyCode": "XAF",
-    "iso3Code": "COG"
-  },
-  {
-    "countryCode": "CH",
-    "countryName": "Switzerland",
-    "capital": "Berne",
-    "phoneCode": "+41",
-    "continentCode": "EU",
-    "currencyCode": "CHF",
-    "iso3Code": "CHE"
-  },
-  {
-    "countryCode": "CI",
-    "countryName": "Ivory Coast",
-    "capital": "Yamoussoukro",
-    "phoneCode": "+225",
-    "continentCode": "AF",
-    "currencyCode": "XOF",
-    "iso3Code": "CIV"
-  },
-  {
-    "countryCode": "CK",
-    "countryName": "Cook Islands",
-    "capital": "Avarua",
-    "phoneCode": "+682",
-    "continentCode": "OC",
-    "currencyCode": "NZD",
-    "iso3Code": "COK"
-  },
-  {
-    "countryCode": "CL",
-    "countryName": "Chile",
-    "capital": "Santiago",
-    "phoneCode": "+56",
-    "continentCode": "SA",
-    "currencyCode": "CLP",
-    "iso3Code": "CHL"
-  },
-  {
-    "countryCode": "CM",
-    "countryName": "Cameroon",
-    "capital": "Yaounde",
-    "phoneCode": "+237",
-    "continentCode": "AF",
-    "currencyCode": "XAF",
-    "iso3Code": "CMR"
-  },
-  {
-    "countryCode": "CN",
-    "countryName": "China",
-    "capital": "Beijing",
-    "phoneCode": "+86",
-    "continentCode": "AS",
-    "currencyCode": "CNY",
-    "iso3Code": "CHN"
-  },
-  {
-    "countryCode": "CO",
-    "countryName": "Colombia",
-    "capital": "Bogota",
-    "phoneCode": "+57",
-    "continentCode": "SA",
-    "currencyCode": "COP",
-    "iso3Code": "COL"
-  },
-  {
-    "countryCode": "CR",
-    "countryName": "Costa Rica",
-    "capital": "San Jose",
-    "phoneCode": "+506",
-    "continentCode": "NA",
-    "currencyCode": "CRC",
-    "iso3Code": "CRI"
-  },
-  {
-    "countryCode": "CU",
-    "countryName": "Cuba",
-    "capital": "Havana",
-    "phoneCode": "+53",
-    "continentCode": "NA",
-    "currencyCode": "CUP",
-    "iso3Code": "CUB"
-  },
-  {
-    "countryCode": "CV",
-    "countryName": "Cape Verde",
-    "capital": "Praia",
-    "phoneCode": "+238",
-    "continentCode": "AF",
-    "currencyCode": "CVE",
-    "iso3Code": "CPV"
-  },
-  {
-    "countryCode": "CW",
-    "countryName": "Curacao",
-    "capital": "Willemstad",
-    "phoneCode": "+599",
-    "continentCode": "NA",
-    "currencyCode": "ANG",
-    "iso3Code": "CUW"
-  },
-  {
-    "countryCode": "CX",
-    "countryName": "Christmas Island",
-    "capital": "Flying Fish Cove",
-    "phoneCode": "+61",
-    "continentCode": "AS",
-    "currencyCode": "AUD",
-    "iso3Code": "CXR"
-  },
-  {
-    "countryCode": "CY",
-    "countryName": "Cyprus",
-    "capital": "Nicosia",
-    "phoneCode": "+357",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "CYP"
-  },
-  {
-    "countryCode": "CZ",
-    "countryName": "Czech Republic",
-    "capital": "Prague",
-    "phoneCode": "+420",
-    "continentCode": "EU",
-    "currencyCode": "CZK",
-    "iso3Code": "CZE"
-  },
-  {
-    "countryCode": "DE",
-    "countryName": "Germany",
-    "capital": "Berlin",
-    "phoneCode": "+49",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "DEU"
-  },
-  {
-    "countryCode": "DJ",
-    "countryName": "Djibouti",
-    "capital": "Djibouti",
-    "phoneCode": "+253",
-    "continentCode": "AF",
-    "currencyCode": "DJF",
-    "iso3Code": "DJI"
-  },
-  {
-    "countryCode": "DK",
-    "countryName": "Denmark",
-    "capital": "Copenhagen",
-    "phoneCode": "+45",
-    "continentCode": "EU",
-    "currencyCode": "DKK",
-    "iso3Code": "DNK"
-  },
-  {
-    "countryCode": "DM",
-    "countryName": "Dominica",
-    "capital": "Roseau",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "XCD",
-    "iso3Code": "DMA"
-  },
-  {
-    "countryCode": "DO",
-    "countryName": "Dominican Republic",
-    "capital": "Santo Domingo",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "DOP",
-    "iso3Code": "DOM"
-  },
-  {
-    "countryCode": "DZ",
-    "countryName": "Algeria",
-    "capital": "Algiers",
-    "phoneCode": "+213",
-    "continentCode": "AF",
-    "currencyCode": "DZD",
-    "iso3Code": "DZA"
-  },
-  {
-    "countryCode": "EC",
-    "countryName": "Ecuador",
-    "capital": "Quito",
-    "phoneCode": "+593",
-    "continentCode": "SA",
-    "currencyCode": "USD",
-    "iso3Code": "ECU"
-  },
-  {
-    "countryCode": "EE",
-    "countryName": "Estonia",
-    "capital": "Tallinn",
-    "phoneCode": "+372",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "EST"
-  },
-  {
-    "countryCode": "EG",
-    "countryName": "Egypt",
-    "capital": "Cairo",
-    "phoneCode": "+20",
-    "continentCode": "AF",
-    "currencyCode": "EGP",
-    "iso3Code": "EGY"
-  },
-  {
-    "countryCode": "EH",
-    "countryName": "Western Sahara",
-    "capital": "El-Aaiun",
-    "phoneCode": "+212",
-    "continentCode": "AF",
-    "currencyCode": "MAD",
-    "iso3Code": "ESH"
-  },
-  {
-    "countryCode": "ER",
-    "countryName": "Eritrea",
-    "capital": "Asmara",
-    "phoneCode": "+291",
-    "continentCode": "AF",
-    "currencyCode": "ERN",
-    "iso3Code": "ERI"
-  },
-  {
-    "countryCode": "ES",
-    "countryName": "Spain",
-    "capital": "Madrid",
-    "phoneCode": "+34",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "ESP"
-  },
-  {
-    "countryCode": "ET",
-    "countryName": "Ethiopia",
-    "capital": "Addis Ababa",
-    "phoneCode": "+251",
-    "continentCode": "AF",
-    "currencyCode": "ETB",
-    "iso3Code": "ETH"
-  },
-  {
-    "countryCode": "FI",
-    "countryName": "Finland",
-    "capital": "Helsinki",
-    "phoneCode": "+358",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "FIN"
-  },
-  {
-    "countryCode": "FJ",
-    "countryName": "Fiji",
-    "capital": "Suva",
-    "phoneCode": "+679",
-    "continentCode": "OC",
-    "currencyCode": "FJD",
-    "iso3Code": "FJI"
-  },
-  {
-    "countryCode": "FK",
-    "countryName": "Falkland Islands",
-    "capital": "Stanley",
-    "phoneCode": "+500",
-    "continentCode": "SA",
-    "currencyCode": "FKP",
-    "iso3Code": "FLK"
-  },
-  {
-    "countryCode": "FM",
-    "countryName": "Micronesia",
-    "capital": "Palikir",
-    "phoneCode": "+691",
-    "continentCode": "OC",
-    "currencyCode": "USD",
-    "iso3Code": "FSM"
-  },
-  {
-    "countryCode": "FO",
-    "countryName": "Faroe Islands",
-    "capital": "Torshavn",
-    "phoneCode": "+298",
-    "continentCode": "EU",
-    "currencyCode": "DKK",
-    "iso3Code": "FRO"
-  },
-  {
-    "countryCode": "FR",
-    "countryName": "France",
-    "capital": "Paris",
-    "phoneCode": "+33",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "FRA"
-  },
-  {
-    "countryCode": "GA",
-    "countryName": "Gabon",
-    "capital": "Libreville",
-    "phoneCode": "+241",
-    "continentCode": "AF",
-    "currencyCode": "XAF",
-    "iso3Code": "GAB"
-  },
-  {
-    "countryCode": "GB",
-    "countryName": "United Kingdom",
-    "capital": "London",
-    "phoneCode": "+44",
-    "continentCode": "EU",
-    "currencyCode": "GBP",
-    "iso3Code": "GBR"
-  },
-  {
-    "countryCode": "GD",
-    "countryName": "Grenada",
-    "capital": "St. George's",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "XCD",
-    "iso3Code": "GRD"
-  },
-  {
-    "countryCode": "GE",
-    "countryName": "Georgia",
-    "capital": "Tbilisi",
-    "phoneCode": "+995",
-    "continentCode": "AS",
-    "currencyCode": "GEL",
-    "iso3Code": "GEO"
-  },
-  {
-    "countryCode": "GF",
-    "countryName": "French Guiana",
-    "capital": "Cayenne",
-    "phoneCode": "+594",
-    "continentCode": "SA",
-    "currencyCode": "EUR",
-    "iso3Code": "GUF"
-  },
-  {
-    "countryCode": "GG",
-    "countryName": "Guernsey",
-    "capital": "St Peter Port",
-    "phoneCode": "+44",
-    "continentCode": "EU",
-    "currencyCode": "GBP",
-    "iso3Code": "GGY"
-  },
-  {
-    "countryCode": "GH",
-    "countryName": "Ghana",
-    "capital": "Accra",
-    "phoneCode": "+233",
-    "continentCode": "AF",
-    "currencyCode": "GHS",
-    "iso3Code": "GHA"
-  },
-  {
-    "countryCode": "GI",
-    "countryName": "Gibraltar",
-    "capital": "Gibraltar",
-    "phoneCode": "+350",
-    "continentCode": "EU",
-    "currencyCode": "GIP",
-    "iso3Code": "GIB"
-  },
-  {
-    "countryCode": "GL",
-    "countryName": "Greenland",
-    "capital": "Nuuk",
-    "phoneCode": "+299",
-    "continentCode": "NA",
-    "currencyCode": "DKK",
-    "iso3Code": "GRL"
-  },
-  {
-    "countryCode": "GM",
-    "countryName": "Gambia",
-    "capital": "Banjul",
-    "phoneCode": "+220",
-    "continentCode": "AF",
-    "currencyCode": "GMD",
-    "iso3Code": "GMB"
-  },
-  {
-    "countryCode": "GN",
-    "countryName": "Guinea",
-    "capital": "Conakry",
-    "phoneCode": "+224",
-    "continentCode": "AF",
-    "currencyCode": "GNF",
-    "iso3Code": "GIN"
-  },
-  {
-    "countryCode": "GP",
-    "countryName": "Guadeloupe",
-    "capital": "Basse-Terre",
-    "phoneCode": "+590",
-    "continentCode": "NA",
-    "currencyCode": "EUR",
-    "iso3Code": "GLP"
-  },
-  {
-    "countryCode": "GQ",
-    "countryName": "Equatorial Guinea",
-    "capital": "Malabo",
-    "phoneCode": "+240",
-    "continentCode": "AF",
-    "currencyCode": "XAF",
-    "iso3Code": "GNQ"
-  },
-  {
-    "countryCode": "GR",
-    "countryName": "Greece",
-    "capital": "Athens",
-    "phoneCode": "+30",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "GRC"
-  },
-  {
-    "countryCode": "GS",
-    "countryName": "South Georgia and the South Sandwich Islands",
-    "capital": "Grytviken",
-    "phoneCode": "+500",
-    "continentCode": "AN",
-    "currencyCode": "GBP",
-    "iso3Code": "SGS"
-  },
-  {
-    "countryCode": "GT",
-    "countryName": "Guatemala",
-    "capital": "Guatemala City",
-    "phoneCode": "+502",
-    "continentCode": "NA",
-    "currencyCode": "GTQ",
-    "iso3Code": "GTM"
-  },
-  {
-    "countryCode": "GU",
-    "countryName": "Guam",
-    "capital": "Hagatna",
-    "phoneCode": "+1",
-    "continentCode": "OC",
-    "currencyCode": "USD",
-    "iso3Code": "GUM"
-  },
-  {
-    "countryCode": "GW",
-    "countryName": "Guinea-Bissau",
-    "capital": "Bissau",
-    "phoneCode": "+245",
-    "continentCode": "AF",
-    "currencyCode": "XOF",
-    "iso3Code": "GNB"
-  },
-  {
-    "countryCode": "GY",
-    "countryName": "Guyana",
-    "capital": "Georgetown",
-    "phoneCode": "+592",
-    "continentCode": "SA",
-    "currencyCode": "GYD",
-    "iso3Code": "GUY"
-  },
-  {
-    "countryCode": "HK",
-    "countryName": "Hong Kong",
-    "capital": "Hong Kong",
-    "phoneCode": "+852",
-    "continentCode": "AS",
-    "currencyCode": "HKD",
-    "iso3Code": "HKG"
-  },
-  {
-    "countryCode": "HM",
-    "countryName": "Heard Island and McDonald Islands",
-    "capital": "",
-    "phoneCode": "+672",
-    "continentCode": "AN",
-    "currencyCode": "AUD",
-    "iso3Code": "HMD"
-  },
-  {
-    "countryCode": "HN",
-    "countryName": "Honduras",
-    "capital": "Tegucigalpa",
-    "phoneCode": "+504",
-    "continentCode": "NA",
-    "currencyCode": "HNL",
-    "iso3Code": "HND"
-  },
-  {
-    "countryCode": "HR",
-    "countryName": "Croatia",
-    "capital": "Zagreb",
-    "phoneCode": "+385",
-    "continentCode": "EU",
-    "currencyCode": "HRK",
-    "iso3Code": "HRV"
-  },
-  {
-    "countryCode": "HT",
-    "countryName": "Haiti",
-    "capital": "Port-au-Prince",
-    "phoneCode": "+509",
-    "continentCode": "NA",
-    "currencyCode": "HTG",
-    "iso3Code": "HTI"
-  },
-  {
-    "countryCode": "HU",
-    "countryName": "Hungary",
-    "capital": "Budapest",
-    "phoneCode": "+36",
-    "continentCode": "EU",
-    "currencyCode": "HUF",
-    "iso3Code": "HUN"
-  },
-  {
-    "countryCode": "ID",
-    "countryName": "Indonesia",
-    "capital": "Jakarta",
-    "phoneCode": "+62",
-    "continentCode": "AS",
-    "currencyCode": "IDR",
-    "iso3Code": "IDN"
-  },
-  {
-    "countryCode": "IE",
-    "countryName": "Ireland",
-    "capital": "Dublin",
-    "phoneCode": "+353",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "IRL"
-  },
-  {
-    "countryCode": "IL",
-    "countryName": "Israel",
-    "capital": "Jerusalem",
-    "phoneCode": "+972",
-    "continentCode": "AS",
-    "currencyCode": "ILS",
-    "iso3Code": "ISR"
-  },
-  {
-    "countryCode": "IM",
-    "countryName": "Isle of Man",
-    "capital": "Douglas, Isle of Man",
-    "phoneCode": "+44",
-    "continentCode": "EU",
-    "currencyCode": "GBP",
-    "iso3Code": "IMN"
-  },
-  {
-    "countryCode": "IN",
-    "countryName": "India",
-    "capital": "New Delhi",
-    "phoneCode": "+91",
-    "continentCode": "AS",
-    "currencyCode": "INR",
-    "iso3Code": "IND"
-  },
-  {
-    "countryCode": "IO",
-    "countryName": "British Indian Ocean Territory",
-    "capital": "Diego Garcia",
-    "phoneCode": "+246",
-    "continentCode": "AS",
-    "currencyCode": "USD",
-    "iso3Code": "IOT"
-  },
-  {
-    "countryCode": "IQ",
-    "countryName": "Iraq",
-    "capital": "Baghdad",
-    "phoneCode": "+964",
-    "continentCode": "AS",
-    "currencyCode": "IQD",
-    "iso3Code": "IRQ"
-  },
-  {
-    "countryCode": "IR",
-    "countryName": "Iran",
-    "capital": "Tehran",
-    "phoneCode": "+98",
-    "continentCode": "AS",
-    "currencyCode": "IRR",
-    "iso3Code": "IRN"
-  },
-  {
-    "countryCode": "IS",
-    "countryName": "Iceland",
-    "capital": "Reykjavik",
-    "phoneCode": "+354",
-    "continentCode": "EU",
-    "currencyCode": "ISK",
-    "iso3Code": "ISL"
-  },
-  {
-    "countryCode": "IT",
-    "countryName": "Italy",
-    "capital": "Rome",
-    "phoneCode": "+39",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "ITA"
-  },
-  {
-    "countryCode": "JE",
-    "countryName": "Jersey",
-    "capital": "Saint Helier",
-    "phoneCode": "+44",
-    "continentCode": "EU",
-    "currencyCode": "GBP",
-    "iso3Code": "JEY"
-  },
-  {
-    "countryCode": "JM",
-    "countryName": "Jamaica",
-    "capital": "Kingston",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "JMD",
-    "iso3Code": "JAM"
-  },
-  {
-    "countryCode": "JO",
-    "countryName": "Jordan",
-    "capital": "Amman",
-    "phoneCode": "+962",
-    "continentCode": "AS",
-    "currencyCode": "JOD",
-    "iso3Code": "JOR"
-  },
-  {
-    "countryCode": "JP",
-    "countryName": "Japan",
-    "capital": "Tokyo",
-    "phoneCode": "+81",
-    "continentCode": "AS",
-    "currencyCode": "JPY",
-    "iso3Code": "JPN"
-  },
-  {
-    "countryCode": "KE",
-    "countryName": "Kenya",
-    "capital": "Nairobi",
-    "phoneCode": "+254",
-    "continentCode": "AF",
-    "currencyCode": "KES",
-    "iso3Code": "KEN"
-  },
-  {
-    "countryCode": "KG",
-    "countryName": "Kyrgyzstan",
-    "capital": "Bishkek",
-    "phoneCode": "+996",
-    "continentCode": "AS",
-    "currencyCode": "KGS",
-    "iso3Code": "KGZ"
-  },
-  {
-    "countryCode": "KH",
-    "countryName": "Cambodia",
-    "capital": "Phnom Penh",
-    "phoneCode": "+855",
-    "continentCode": "AS",
-    "currencyCode": "KHR",
-    "iso3Code": "KHM"
-  },
-  {
-    "countryCode": "KI",
-    "countryName": "Kiribati",
-    "capital": "Tarawa",
-    "phoneCode": "+686",
-    "continentCode": "OC",
-    "currencyCode": "AUD",
-    "iso3Code": "KIR"
-  },
-  {
-    "countryCode": "KM",
-    "countryName": "Comoros",
-    "capital": "Moroni",
-    "phoneCode": "+269",
-    "continentCode": "AF",
-    "currencyCode": "KMF",
-    "iso3Code": "COM"
-  },
-  {
-    "countryCode": "KN",
-    "countryName": "Saint Kitts and Nevis",
-    "capital": "Basseterre",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "XCD",
-    "iso3Code": "KNA"
-  },
-  {
-    "countryCode": "KP",
-    "countryName": "North Korea",
-    "capital": "Pyongyang",
-    "phoneCode": "+850",
-    "continentCode": "AS",
-    "currencyCode": "KPW",
-    "iso3Code": "PRK"
-  },
-  {
-    "countryCode": "KR",
-    "countryName": "South Korea",
-    "capital": "Seoul",
-    "phoneCode": "+82",
-    "continentCode": "AS",
-    "currencyCode": "KRW",
-    "iso3Code": "KOR"
-  },
-  {
-    "countryCode": "KW",
-    "countryName": "Kuwait",
-    "capital": "Kuwait City",
-    "phoneCode": "+965",
-    "continentCode": "AS",
-    "currencyCode": "KWD",
-    "iso3Code": "KWT"
-  },
-  {
-    "countryCode": "KY",
-    "countryName": "Cayman Islands",
-    "capital": "George Town",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "KYD",
-    "iso3Code": "CYM"
-  },
-  {
-    "countryCode": "KZ",
-    "countryName": "Kazakhstan",
-    "capital": "Astana",
-    "phoneCode": "+7",
-    "continentCode": "AS",
-    "currencyCode": "KZT",
-    "iso3Code": "KAZ"
-  },
-  {
-    "countryCode": "LA",
-    "countryName": "Laos",
-    "capital": "Vientiane",
-    "phoneCode": "+856",
-    "continentCode": "AS",
-    "currencyCode": "LAK",
-    "iso3Code": "LAO"
-  },
-  {
-    "countryCode": "LB",
-    "countryName": "Lebanon",
-    "capital": "Beirut",
-    "phoneCode": "+961",
-    "continentCode": "AS",
-    "currencyCode": "LBP",
-    "iso3Code": "LBN"
-  },
-  {
-    "countryCode": "LC",
-    "countryName": "Saint Lucia",
-    "capital": "Castries",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "XCD",
-    "iso3Code": "LCA"
-  },
-  {
-    "countryCode": "LI",
-    "countryName": "Liechtenstein",
-    "capital": "Vaduz",
-    "phoneCode": "+423",
-    "continentCode": "EU",
-    "currencyCode": "CHF",
-    "iso3Code": "LIE"
-  },
-  {
-    "countryCode": "LK",
-    "countryName": "Sri Lanka",
-    "capital": "Colombo",
-    "phoneCode": "+94",
-    "continentCode": "AS",
-    "currencyCode": "LKR",
-    "iso3Code": "LKA"
-  },
-  {
-    "countryCode": "LR",
-    "countryName": "Liberia",
-    "capital": "Monrovia",
-    "phoneCode": "+231",
-    "continentCode": "AF",
-    "currencyCode": "LRD",
-    "iso3Code": "LBR"
-  },
-  {
-    "countryCode": "LS",
-    "countryName": "Lesotho",
-    "capital": "Maseru",
-    "phoneCode": "+266",
-    "continentCode": "AF",
-    "currencyCode": "LSL",
-    "iso3Code": "LSO"
-  },
-  {
-    "countryCode": "LT",
-    "countryName": "Lithuania",
-    "capital": "Vilnius",
-    "phoneCode": "+370",
-    "continentCode": "EU",
-    "currencyCode": "LTL",
-    "iso3Code": "LTU"
-  },
-  {
-    "countryCode": "LU",
-    "countryName": "Luxembourg",
-    "capital": "Luxembourg",
-    "phoneCode": "+352",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "LUX"
-  },
-  {
-    "countryCode": "LV",
-    "countryName": "Latvia",
-    "capital": "Riga",
-    "phoneCode": "+371",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "LVA"
-  },
-  {
-    "countryCode": "LY",
-    "countryName": "Libya",
-    "capital": "Tripolis",
-    "phoneCode": "+218",
-    "continentCode": "AF",
-    "currencyCode": "LYD",
-    "iso3Code": "LBY"
-  },
-  {
-    "countryCode": "MA",
-    "countryName": "Morocco",
-    "capital": "Rabat",
-    "phoneCode": "+212",
-    "continentCode": "AF",
-    "currencyCode": "MAD",
-    "iso3Code": "MAR"
-  },
-  {
-    "countryCode": "MC",
-    "countryName": "Monaco",
-    "capital": "Monaco",
-    "phoneCode": "+377",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "MCO"
-  },
-  {
-    "countryCode": "MD",
-    "countryName": "Moldova",
-    "capital": "Chisinau",
-    "phoneCode": "+373",
-    "continentCode": "EU",
-    "currencyCode": "MDL",
-    "iso3Code": "MDA"
-  },
-  {
-    "countryCode": "ME",
-    "countryName": "Montenegro",
-    "capital": "Podgorica",
-    "phoneCode": "+382",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "MNE"
-  },
-  {
-    "countryCode": "MF",
-    "countryName": "Saint Martin",
-    "capital": "Marigot",
-    "phoneCode": "+590",
-    "continentCode": "NA",
-    "currencyCode": "EUR",
-    "iso3Code": "MAF"
-  },
-  {
-    "countryCode": "MG",
-    "countryName": "Madagascar",
-    "capital": "Antananarivo",
-    "phoneCode": "+261",
-    "continentCode": "AF",
-    "currencyCode": "MGA",
-    "iso3Code": "MDG"
-  },
-  {
-    "countryCode": "MH",
-    "countryName": "Marshall Islands",
-    "capital": "Majuro",
-    "phoneCode": "+692",
-    "continentCode": "OC",
-    "currencyCode": "USD",
-    "iso3Code": "MHL"
-  },
-  {
-    "countryCode": "MK",
-    "countryName": "Macedonia",
-    "capital": "Skopje",
-    "phoneCode": "+389",
-    "continentCode": "EU",
-    "currencyCode": "MKD",
-    "iso3Code": "MKD"
-  },
-  {
-    "countryCode": "ML",
-    "countryName": "Mali",
-    "capital": "Bamako",
-    "phoneCode": "+223",
-    "continentCode": "AF",
-    "currencyCode": "XOF",
-    "iso3Code": "MLI"
-  },
-  {
-    "countryCode": "MM",
-    "countryName": "Myanmar",
-    "capital": "Nay Pyi Taw",
-    "phoneCode": "+95",
-    "continentCode": "AS",
-    "currencyCode": "MMK",
-    "iso3Code": "MMR"
-  },
-  {
-    "countryCode": "MN",
-    "countryName": "Mongolia",
-    "capital": "Ulan Bator",
-    "phoneCode": "+976",
-    "continentCode": "AS",
-    "currencyCode": "MNT",
-    "iso3Code": "MNG"
-  },
-  {
-    "countryCode": "MO",
-    "countryName": "Macao",
-    "capital": "Macao",
-    "phoneCode": "+853",
-    "continentCode": "AS",
-    "currencyCode": "MOP",
-    "iso3Code": "MAC"
-  },
-  {
-    "countryCode": "MP",
-    "countryName": "Northern Mariana Islands",
-    "capital": "Saipan",
-    "phoneCode": "+1",
-    "continentCode": "OC",
-    "currencyCode": "USD",
-    "iso3Code": "MNP"
-  },
-  {
-    "countryCode": "MQ",
-    "countryName": "Martinique",
-    "capital": "Fort-de-France",
-    "phoneCode": "+596",
-    "continentCode": "NA",
-    "currencyCode": "EUR",
-    "iso3Code": "MTQ"
-  },
-  {
-    "countryCode": "MR",
-    "countryName": "Mauritania",
-    "capital": "Nouakchott",
-    "phoneCode": "+222",
-    "continentCode": "AF",
-    "currencyCode": "MRO",
-    "iso3Code": "MRT"
-  },
-  {
-    "countryCode": "MS",
-    "countryName": "Montserrat",
-    "capital": "Plymouth",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "XCD",
-    "iso3Code": "MSR"
-  },
-  {
-    "countryCode": "MT",
-    "countryName": "Malta",
-    "capital": "Valletta",
-    "phoneCode": "+356",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "MLT"
-  },
-  {
-    "countryCode": "MU",
-    "countryName": "Mauritius",
-    "capital": "Port Louis",
-    "phoneCode": "+230",
-    "continentCode": "AF",
-    "currencyCode": "MUR",
-    "iso3Code": "MUS"
-  },
-  {
-    "countryCode": "MV",
-    "countryName": "Maldives",
-    "capital": "Male",
-    "phoneCode": "+960",
-    "continentCode": "AS",
-    "currencyCode": "MVR",
-    "iso3Code": "MDV"
-  },
-  {
-    "countryCode": "MW",
-    "countryName": "Malawi",
-    "capital": "Lilongwe",
-    "phoneCode": "+265",
-    "continentCode": "AF",
-    "currencyCode": "MWK",
-    "iso3Code": "MWI"
-  },
-  {
-    "countryCode": "MX",
-    "countryName": "Mexico",
-    "capital": "Mexico City",
-    "phoneCode": "+52",
-    "continentCode": "NA",
-    "currencyCode": "MXN",
-    "iso3Code": "MEX"
-  },
-  {
-    "countryCode": "MY",
-    "countryName": "Malaysia",
-    "capital": "Kuala Lumpur",
-    "phoneCode": "+60",
-    "continentCode": "AS",
-    "currencyCode": "MYR",
-    "iso3Code": "MYS"
-  },
-  {
-    "countryCode": "MZ",
-    "countryName": "Mozambique",
-    "capital": "Maputo",
-    "phoneCode": "+258",
-    "continentCode": "AF",
-    "currencyCode": "MZN",
-    "iso3Code": "MOZ"
-  },
-  {
-    "countryCode": "NA",
-    "countryName": "Namibia",
-    "capital": "Windhoek",
-    "phoneCode": "+264",
-    "continentCode": "AF",
-    "currencyCode": "NAD",
-    "iso3Code": "NAM"
-  },
-  {
-    "countryCode": "NC",
-    "countryName": "New Caledonia",
-    "capital": "Noumea",
-    "phoneCode": "+687",
-    "continentCode": "OC",
-    "currencyCode": "XPF",
-    "iso3Code": "NCL"
-  },
-  {
-    "countryCode": "NE",
-    "countryName": "Niger",
-    "capital": "Niamey",
-    "phoneCode": "+227",
-    "continentCode": "AF",
-    "currencyCode": "XOF",
-    "iso3Code": "NER"
-  },
-  {
-    "countryCode": "NF",
-    "countryName": "Norfolk Island",
-    "capital": "Kingston",
-    "phoneCode": "+672",
-    "continentCode": "OC",
-    "currencyCode": "AUD",
-    "iso3Code": "NFK"
-  },
-  {
-    "countryCode": "NG",
-    "countryName": "Nigeria",
-    "capital": "Abuja",
-    "phoneCode": "+234",
-    "continentCode": "AF",
-    "currencyCode": "NGN",
-    "iso3Code": "NGA"
-  },
-  {
-    "countryCode": "NI",
-    "countryName": "Nicaragua",
-    "capital": "Managua",
-    "phoneCode": "+505",
-    "continentCode": "NA",
-    "currencyCode": "NIO",
-    "iso3Code": "NIC"
-  },
-  {
-    "countryCode": "NL",
-    "countryName": "Netherlands",
-    "capital": "Amsterdam",
-    "phoneCode": "+31",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "NLD"
-  },
-  {
-    "countryCode": "NO",
-    "countryName": "Norway",
-    "capital": "Oslo",
-    "phoneCode": "+47",
-    "continentCode": "EU",
-    "currencyCode": "NOK",
-    "iso3Code": "NOR"
-  },
-  {
-    "countryCode": "NP",
-    "countryName": "Nepal",
-    "capital": "Kathmandu",
-    "phoneCode": "+977",
-    "continentCode": "AS",
-    "currencyCode": "NPR",
-    "iso3Code": "NPL"
-  },
-  {
-    "countryCode": "NR",
-    "countryName": "Nauru",
-    "capital": "Yaren",
-    "phoneCode": "+674",
-    "continentCode": "OC",
-    "currencyCode": "AUD",
-    "iso3Code": "NRU"
-  },
-  {
-    "countryCode": "NU",
-    "countryName": "Niue",
-    "capital": "Alofi",
-    "phoneCode": "+683",
-    "continentCode": "OC",
-    "currencyCode": "NZD",
-    "iso3Code": "NIU"
-  },
-  {
-    "countryCode": "NZ",
-    "countryName": "New Zealand",
-    "capital": "Wellington",
-    "phoneCode": "+64",
-    "continentCode": "OC",
-    "currencyCode": "NZD",
-    "iso3Code": "NZL"
-  },
-  {
-    "countryCode": "OM",
-    "countryName": "Oman",
-    "capital": "Muscat",
-    "phoneCode": "+968",
-    "continentCode": "AS",
-    "currencyCode": "OMR",
-    "iso3Code": "OMN"
-  },
-  {
-    "countryCode": "PA",
-    "countryName": "Panama",
-    "capital": "Panama City",
-    "phoneCode": "+507",
-    "continentCode": "NA",
-    "currencyCode": "PAB",
-    "iso3Code": "PAN"
-  },
-  {
-    "countryCode": "PE",
-    "countryName": "Peru",
-    "capital": "Lima",
-    "phoneCode": "+51",
-    "continentCode": "SA",
-    "currencyCode": "PEN",
-    "iso3Code": "PER"
-  },
-  {
-    "countryCode": "PF",
-    "countryName": "French Polynesia",
-    "capital": "Papeete",
-    "phoneCode": "+689",
-    "continentCode": "OC",
-    "currencyCode": "XPF",
-    "iso3Code": "PYF"
-  },
-  {
-    "countryCode": "PG",
-    "countryName": "Papua New Guinea",
-    "capital": "Port Moresby",
-    "phoneCode": "+675",
-    "continentCode": "OC",
-    "currencyCode": "PGK",
-    "iso3Code": "PNG"
-  },
-  {
-    "countryCode": "PH",
-    "countryName": "Philippines",
-    "capital": "Manila",
-    "phoneCode": "+63",
-    "continentCode": "AS",
-    "currencyCode": "PHP",
-    "iso3Code": "PHL"
-  },
-  {
-    "countryCode": "PK",
-    "countryName": "Pakistan",
-    "capital": "Islamabad",
-    "phoneCode": "+92",
-    "continentCode": "AS",
-    "currencyCode": "PKR",
-    "iso3Code": "PAK"
-  },
-  {
-    "countryCode": "PL",
-    "countryName": "Poland",
-    "capital": "Warsaw",
-    "phoneCode": "+48",
-    "continentCode": "EU",
-    "currencyCode": "PLN",
-    "iso3Code": "POL"
-  },
-  {
-    "countryCode": "PM",
-    "countryName": "Saint Pierre and Miquelon",
-    "capital": "Saint-Pierre",
-    "phoneCode": "+508",
-    "continentCode": "NA",
-    "currencyCode": "EUR",
-    "iso3Code": "SPM"
-  },
-  {
-    "countryCode": "PN",
-    "countryName": "Pitcairn",
-    "capital": "Adamstown",
-    "phoneCode": "+64",
-    "continentCode": "OC",
-    "currencyCode": "NZD",
-    "iso3Code": "PCN"
-  },
-  {
-    "countryCode": "PR",
-    "countryName": "Puerto Rico",
-    "capital": "San Juan",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "USD",
-    "iso3Code": "PRI"
-  },
-  {
-    "countryCode": "PS",
-    "countryName": "Palestinian Territory",
-    "capital": "East Jerusalem",
-    "phoneCode": "+970",
-    "continentCode": "AS",
-    "currencyCode": "ILS",
-    "iso3Code": "PSE"
-  },
-  {
-    "countryCode": "PT",
-    "countryName": "Portugal",
-    "capital": "Lisbon",
-    "phoneCode": "+351",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "PRT"
-  },
-  {
-    "countryCode": "PW",
-    "countryName": "Palau",
-    "capital": "Melekeok",
-    "phoneCode": "+680",
-    "continentCode": "OC",
-    "currencyCode": "USD",
-    "iso3Code": "PLW"
-  },
-  {
-    "countryCode": "PY",
-    "countryName": "Paraguay",
-    "capital": "Asuncion",
-    "phoneCode": "+595",
-    "continentCode": "SA",
-    "currencyCode": "PYG",
-    "iso3Code": "PRY"
-  },
-  {
-    "countryCode": "QA",
-    "countryName": "Qatar",
-    "capital": "Doha",
-    "phoneCode": "+974",
-    "continentCode": "AS",
-    "currencyCode": "QAR",
-    "iso3Code": "QAT"
-  },
-  {
-    "countryCode": "RE",
-    "countryName": "Reunion",
-    "capital": "Saint-Denis",
-    "phoneCode": "+262",
-    "continentCode": "AF",
-    "currencyCode": "EUR",
-    "iso3Code": "REU"
-  },
-  {
-    "countryCode": "RO",
-    "countryName": "Romania",
-    "capital": "Bucharest",
-    "phoneCode": "+40",
-    "continentCode": "EU",
-    "currencyCode": "RON",
-    "iso3Code": "ROU"
-  },
-  {
-    "countryCode": "RS",
-    "countryName": "Serbia",
-    "capital": "Belgrade",
-    "phoneCode": "+381",
-    "continentCode": "EU",
-    "currencyCode": "RSD",
-    "iso3Code": "SRB"
-  },
-  {
-    "countryCode": "RU",
-    "countryName": "Russia",
-    "capital": "Moscow",
-    "phoneCode": "+7",
-    "continentCode": "EU",
-    "currencyCode": "RUB",
-    "iso3Code": "RUS"
-  },
-  {
-    "countryCode": "RW",
-    "countryName": "Rwanda",
-    "capital": "Kigali",
-    "phoneCode": "+250",
-    "continentCode": "AF",
-    "currencyCode": "RWF",
-    "iso3Code": "RWA"
-  },
-  {
-    "countryCode": "SA",
-    "countryName": "Saudi Arabia",
-    "capital": "Riyadh",
-    "phoneCode": "+966",
-    "continentCode": "AS",
-    "currencyCode": "SAR",
-    "iso3Code": "SAU"
-  },
-  {
-    "countryCode": "SB",
-    "countryName": "Solomon Islands",
-    "capital": "Honiara",
-    "phoneCode": "+677",
-    "continentCode": "OC",
-    "currencyCode": "SBD",
-    "iso3Code": "SLB"
-  },
-  {
-    "countryCode": "SC",
-    "countryName": "Seychelles",
-    "capital": "Victoria",
-    "phoneCode": "+248",
-    "continentCode": "AF",
-    "currencyCode": "SCR",
-    "iso3Code": "SYC"
-  },
-  {
-    "countryCode": "SD",
-    "countryName": "Sudan",
-    "capital": "Khartoum",
-    "phoneCode": "+249",
-    "continentCode": "AF",
-    "currencyCode": "SDG",
-    "iso3Code": "SDN"
-  },
-  {
-    "countryCode": "SE",
-    "countryName": "Sweden",
-    "capital": "Stockholm",
-    "phoneCode": "+46",
-    "continentCode": "EU",
-    "currencyCode": "SEK",
-    "iso3Code": "SWE"
-  },
-  {
-    "countryCode": "SG",
-    "countryName": "Singapore",
-    "capital": "Singapur",
-    "phoneCode": "+65",
-    "continentCode": "AS",
-    "currencyCode": "SGD",
-    "iso3Code": "SGP"
-  },
-  {
-    "countryCode": "SH",
-    "countryName": "Saint Helena",
-    "capital": "Jamestown",
-    "phoneCode": "+290",
-    "continentCode": "AF",
-    "currencyCode": "SHP",
-    "iso3Code": "SHN"
-  },
-  {
-    "countryCode": "SI",
-    "countryName": "Slovenia",
-    "capital": "Ljubljana",
-    "phoneCode": "+386",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "SVN"
-  },
-  {
-    "countryCode": "SJ",
-    "countryName": "Svalbard and Jan Mayen",
-    "capital": "Longyearbyen",
-    "phoneCode": "+47",
-    "continentCode": "EU",
-    "currencyCode": "NOK",
-    "iso3Code": "SJM"
-  },
-  {
-    "countryCode": "SK",
-    "countryName": "Slovakia",
-    "capital": "Bratislava",
-    "phoneCode": "+421",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "SVK"
-  },
-  {
-    "countryCode": "SL",
-    "countryName": "Sierra Leone",
-    "capital": "Freetown",
-    "phoneCode": "+232",
-    "continentCode": "AF",
-    "currencyCode": "SLL",
-    "iso3Code": "SLE"
-  },
-  {
-    "countryCode": "SM",
-    "countryName": "San Marino",
-    "capital": "San Marino",
-    "phoneCode": "+378",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "SMR"
-  },
-  {
-    "countryCode": "SN",
-    "countryName": "Senegal",
-    "capital": "Dakar",
-    "phoneCode": "+221",
-    "continentCode": "AF",
-    "currencyCode": "XOF",
-    "iso3Code": "SEN"
-  },
-  {
-    "countryCode": "SO",
-    "countryName": "Somalia",
-    "capital": "Mogadishu",
-    "phoneCode": "+252",
-    "continentCode": "AF",
-    "currencyCode": "SOS",
-    "iso3Code": "SOM"
-  },
-  {
-    "countryCode": "SR",
-    "countryName": "Suriname",
-    "capital": "Paramaribo",
-    "phoneCode": "+597",
-    "continentCode": "SA",
-    "currencyCode": "SRD",
-    "iso3Code": "SUR"
-  },
-  {
-    "countryCode": "SS",
-    "countryName": "South Sudan",
-    "capital": "Juba",
-    "phoneCode": "+211",
-    "continentCode": "AF",
-    "currencyCode": "SSP",
-    "iso3Code": "SSD"
-  },
-  {
-    "countryCode": "ST",
-    "countryName": "Sao Tome and Principe",
-    "capital": "Sao Tome",
-    "phoneCode": "+239",
-    "continentCode": "AF",
-    "currencyCode": "STD",
-    "iso3Code": "STP"
-  },
-  {
-    "countryCode": "SV",
-    "countryName": "El Salvador",
-    "capital": "San Salvador",
-    "phoneCode": "+503",
-    "continentCode": "NA",
-    "currencyCode": "USD",
-    "iso3Code": "SLV"
-  },
-  {
-    "countryCode": "SX",
-    "countryName": "Sint Maarten",
-    "capital": "Philipsburg",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "ANG",
-    "iso3Code": "SXM"
-  },
-  {
-    "countryCode": "SY",
-    "countryName": "Syria",
-    "capital": "Damascus",
-    "phoneCode": "+963",
-    "continentCode": "AS",
-    "currencyCode": "SYP",
-    "iso3Code": "SYR"
-  },
-  {
-    "countryCode": "SZ",
-    "countryName": "Swaziland",
-    "capital": "Mbabane",
-    "phoneCode": "+268",
-    "continentCode": "AF",
-    "currencyCode": "SZL",
-    "iso3Code": "SWZ"
-  },
-  {
-    "countryCode": "TC",
-    "countryName": "Turks and Caicos Islands",
-    "capital": "Cockburn Town",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "USD",
-    "iso3Code": "TCA"
-  },
-  {
-    "countryCode": "TD",
-    "countryName": "Chad",
-    "capital": "N'Djamena",
-    "phoneCode": "+235",
-    "continentCode": "AF",
-    "currencyCode": "XAF",
-    "iso3Code": "TCD"
-  },
-  {
-    "countryCode": "TF",
-    "countryName": "French Southern Territories",
-    "capital": "Port-aux-Francais",
-    "phoneCode": "+262",
-    "continentCode": "AN",
-    "currencyCode": "EUR",
-    "iso3Code": "ATF"
-  },
-  {
-    "countryCode": "TG",
-    "countryName": "Togo",
-    "capital": "Lome",
-    "phoneCode": "+228",
-    "continentCode": "AF",
-    "currencyCode": "XOF",
-    "iso3Code": "TGO"
-  },
-  {
-    "countryCode": "TH",
-    "countryName": "Thailand",
-    "capital": "Bangkok",
-    "phoneCode": "+66",
-    "continentCode": "AS",
-    "currencyCode": "THB",
-    "iso3Code": "THA"
-  },
-  {
-    "countryCode": "TJ",
-    "countryName": "Tajikistan",
-    "capital": "Dushanbe",
-    "phoneCode": "+992",
-    "continentCode": "AS",
-    "currencyCode": "TJS",
-    "iso3Code": "TJK"
-  },
-  {
-    "countryCode": "TK",
-    "countryName": "Tokelau",
-    "capital": "Nukunonu",
-    "phoneCode": "+690",
-    "continentCode": "OC",
-    "currencyCode": "NZD",
-    "iso3Code": "TKL"
-  },
-  {
-    "countryCode": "TL",
-    "countryName": "East Timor",
-    "capital": "Dili",
-    "phoneCode": "+670",
-    "continentCode": "OC",
-    "currencyCode": "USD",
-    "iso3Code": "TLS"
-  },
-  {
-    "countryCode": "TM",
-    "countryName": "Turkmenistan",
-    "capital": "Ashgabat",
-    "phoneCode": "+993",
-    "continentCode": "AS",
-    "currencyCode": "TMT",
-    "iso3Code": "TKM"
-  },
-  {
-    "countryCode": "TN",
-    "countryName": "Tunisia",
-    "capital": "Tunis",
-    "phoneCode": "+216",
-    "continentCode": "AF",
-    "currencyCode": "TND",
-    "iso3Code": "TUN"
-  },
-  {
-    "countryCode": "TO",
-    "countryName": "Tonga",
-    "capital": "Nuku'alofa",
-    "phoneCode": "+676",
-    "continentCode": "OC",
-    "currencyCode": "TOP",
-    "iso3Code": "TON"
-  },
-  {
-    "countryCode": "TR",
-    "countryName": "Turkey",
-    "capital": "Ankara",
-    "phoneCode": "+90",
-    "continentCode": "AS",
-    "currencyCode": "TRY",
-    "iso3Code": "TUR"
-  },
-  {
-    "countryCode": "TT",
-    "countryName": "Trinidad and Tobago",
-    "capital": "Port of Spain",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "TTD",
-    "iso3Code": "TTO"
-  },
-  {
-    "countryCode": "TV",
-    "countryName": "Tuvalu",
-    "capital": "Funafuti",
-    "phoneCode": "+688",
-    "continentCode": "OC",
-    "currencyCode": "AUD",
-    "iso3Code": "TUV"
-  },
-  {
-    "countryCode": "TW",
-    "countryName": "Taiwan",
-    "capital": "Taipei",
-    "phoneCode": "+886",
-    "continentCode": "AS",
-    "currencyCode": "TWD",
-    "iso3Code": "TWN"
-  },
-  {
-    "countryCode": "TZ",
-    "countryName": "Tanzania",
-    "capital": "Dodoma",
-    "phoneCode": "+255",
-    "continentCode": "AF",
-    "currencyCode": "TZS",
-    "iso3Code": "TZA"
-  },
-  {
-    "countryCode": "UA",
-    "countryName": "Ukraine",
-    "capital": "Kiev",
-    "phoneCode": "+380",
-    "continentCode": "EU",
-    "currencyCode": "UAH",
-    "iso3Code": "UKR"
-  },
-  {
-    "countryCode": "UG",
-    "countryName": "Uganda",
-    "capital": "Kampala",
-    "phoneCode": "+256",
-    "continentCode": "AF",
-    "currencyCode": "UGX",
-    "iso3Code": "UGA"
-  },
-  {
-    "countryCode": "UM",
-    "countryName": "United States Minor Outlying Islands",
-    "capital": "",
-    "phoneCode": "+1",
-    "continentCode": "OC",
-    "currencyCode": "USD",
-    "iso3Code": "UMI"
-  },
-  {
-    "countryCode": "US",
-    "countryName": "United States",
-    "capital": "Washington",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "USD",
-    "iso3Code": "USA"
-  },
-  {
-    "countryCode": "UY",
-    "countryName": "Uruguay",
-    "capital": "Montevideo",
-    "phoneCode": "+598",
-    "continentCode": "SA",
-    "currencyCode": "UYU",
-    "iso3Code": "URY"
-  },
-  {
-    "countryCode": "UZ",
-    "countryName": "Uzbekistan",
-    "capital": "Tashkent",
-    "phoneCode": "+998",
-    "continentCode": "AS",
-    "currencyCode": "UZS",
-    "iso3Code": "UZB"
-  },
-  {
-    "countryCode": "VA",
-    "countryName": "Vatican",
-    "capital": "Vatican City",
-    "phoneCode": "+379",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "VAT"
-  },
-  {
-    "countryCode": "VC",
-    "countryName": "Saint Vincent and the Grenadines",
-    "capital": "Kingstown",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "XCD",
-    "iso3Code": "VCT"
-  },
-  {
-    "countryCode": "VE",
-    "countryName": "Venezuela",
-    "capital": "Caracas",
-    "phoneCode": "+58",
-    "continentCode": "SA",
-    "currencyCode": "VEF",
-    "iso3Code": "VEN"
-  },
-  {
-    "countryCode": "VG",
-    "countryName": "British Virgin Islands",
-    "capital": "Road Town",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "USD",
-    "iso3Code": "VGB"
-  },
-  {
-    "countryCode": "VI",
-    "countryName": "U.S. Virgin Islands",
-    "capital": "Charlotte Amalie",
-    "phoneCode": "+1",
-    "continentCode": "NA",
-    "currencyCode": "USD",
-    "iso3Code": "VIR"
-  },
-  {
-    "countryCode": "VN",
-    "countryName": "Vietnam",
-    "capital": "Hanoi",
-    "phoneCode": "+84",
-    "continentCode": "AS",
-    "currencyCode": "VND",
-    "iso3Code": "VNM"
-  },
-  {
-    "countryCode": "VU",
-    "countryName": "Vanuatu",
-    "capital": "Port Vila",
-    "phoneCode": "+678",
-    "continentCode": "OC",
-    "currencyCode": "VUV",
-    "iso3Code": "VUT"
-  },
-  {
-    "countryCode": "WF",
-    "countryName": "Wallis and Futuna",
-    "capital": "Mata Utu",
-    "phoneCode": "+681",
-    "continentCode": "OC",
-    "currencyCode": "XPF",
-    "iso3Code": "WLF"
-  },
-  {
-    "countryCode": "WS",
-    "countryName": "Samoa",
-    "capital": "Apia",
-    "phoneCode": "+685",
-    "continentCode": "OC",
-    "currencyCode": "WST",
-    "iso3Code": "WSM"
-  },
-  {
-    "countryCode": "XK",
-    "countryName": "Kosovo",
-    "capital": "Pristina",
-    "phoneCode": "+383",
-    "continentCode": "EU",
-    "currencyCode": "EUR",
-    "iso3Code": "XKX"
-  },
-  {
-    "countryCode": "YE",
-    "countryName": "Yemen",
-    "capital": "Sanaa",
-    "phoneCode": "+967",
-    "continentCode": "AS",
-    "currencyCode": "YER",
-    "iso3Code": "YEM"
-  },
-  {
-    "countryCode": "YT",
-    "countryName": "Mayotte",
-    "capital": "Mamoudzou",
-    "phoneCode": "+262",
-    "continentCode": "AF",
-    "currencyCode": "EUR",
-    "iso3Code": "MYT"
-  },
-  {
-    "countryCode": "ZA",
-    "countryName": "South Africa",
-    "capital": "Pretoria",
-    "phoneCode": "+27",
-    "continentCode": "AF",
-    "currencyCode": "ZAR",
-    "iso3Code": "ZAF"
-  },
-  {
-    "countryCode": "ZM",
-    "countryName": "Zambia",
-    "capital": "Lusaka",
-    "phoneCode": "+260",
-    "continentCode": "AF",
-    "currencyCode": "ZMK",
-    "iso3Code": "ZMB"
-  },
-  {
-    "countryCode": "ZW",
-    "countryName": "Zimbabwe",
-    "capital": "Harare",
-    "phoneCode": "+263",
-    "continentCode": "AF",
-    "currencyCode": "ZWL",
-    "iso3Code": "ZWE"
-  }
-]
+{
+   "AD": {
+      "countryName": "Andorra",
+      "capital": "Andorra la Vella",
+      "phoneCode": "+376",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "AND"
+   },
+   "AE": {
+      "countryName": "United Arab Emirates",
+      "capital": "Abu Dhabi",
+      "phoneCode": "+971",
+      "continentCode": "AS",
+      "currencyCode": "AED",
+      "iso3Code": "ARE"
+   },
+   "AF": {
+      "countryName": "Afghanistan",
+      "capital": "Kabul",
+      "phoneCode": "+993",
+      "continentCode": "AS",
+      "currencyCode": "AFN",
+      "iso3Code": "AFG"
+   },
+   "AG": {
+      "countryName": "Antigua and Barbuda",
+      "capital": "St. John's",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "XCD",
+      "iso3Code": "ATG"
+   },
+   "AI": {
+      "countryName": "Anguilla",
+      "capital": "The Valley",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "XCD",
+      "iso3Code": "AIA"
+   },
+   "AL": {
+      "countryName": "Albania",
+      "capital": "Tirana",
+      "phoneCode": "+355",
+      "continentCode": "EU",
+      "currencyCode": "ALL",
+      "iso3Code": "ALB"
+   },
+   "AM": {
+      "countryName": "Armenia",
+      "capital": "Yerevan",
+      "phoneCode": "+374",
+      "continentCode": "AS",
+      "currencyCode": "AMD",
+      "iso3Code": "ARM"
+   },
+   "AO": {
+      "countryName": "Angola",
+      "capital": "Luanda",
+      "phoneCode": "+244",
+      "continentCode": "AF",
+      "currencyCode": "AOA",
+      "iso3Code": "AGO"
+   },
+   "AQ": {
+      "countryName": "Antarctica",
+      "capital": null,
+      "phoneCode": "+672",
+      "continentCode": "AN",
+      "currencyCode": null,
+      "iso3Code": "ATA"
+   },
+   "AR": {
+      "countryName": "Argentina",
+      "capital": "Buenos Aires",
+      "phoneCode": "+54",
+      "continentCode": "SA",
+      "currencyCode": "ARS",
+      "iso3Code": "ARG"
+   },
+   "AS": {
+      "countryName": "American Samoa",
+      "capital": "Pago Pago",
+      "phoneCode": "+1",
+      "continentCode": "OC",
+      "currencyCode": "USD",
+      "iso3Code": "ASM"
+   },
+   "AT": {
+      "countryName": "Austria",
+      "capital": "Vienna",
+      "phoneCode": "+43",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "AUT"
+   },
+   "AU": {
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "phoneCode": "+61",
+      "continentCode": "OC",
+      "currencyCode": "AUD",
+      "iso3Code": "AUS"
+   },
+   "AW": {
+      "countryName": "Aruba",
+      "capital": "Oranjestad",
+      "phoneCode": "+297",
+      "continentCode": "NA",
+      "currencyCode": "AWG",
+      "iso3Code": "ABW"
+   },
+   "AX": {
+      "countryName": "Aland Islands",
+      "capital": "Mariehamn",
+      "phoneCode": "+358",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "ALA"
+   },
+   "AZ": {
+      "countryName": "Azerbaijan",
+      "capital": "Baku",
+      "phoneCode": "+994",
+      "continentCode": "AS",
+      "currencyCode": "AZN",
+      "iso3Code": "AZE"
+   },
+   "BA": {
+      "countryName": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "phoneCode": "+387",
+      "continentCode": "EU",
+      "currencyCode": "BAM",
+      "iso3Code": "BIH"
+   },
+   "BB": {
+      "countryName": "Barbados",
+      "capital": "Bridgetown",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "BBD",
+      "iso3Code": "BRB"
+   },
+   "BD": {
+      "countryName": "Bangladesh",
+      "capital": "Dhaka",
+      "phoneCode": "+880",
+      "continentCode": "AS",
+      "currencyCode": "BDT",
+      "iso3Code": "BGD"
+   },
+   "BE": {
+      "countryName": "Belgium",
+      "capital": "Brussels",
+      "phoneCode": "+32",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "BEL"
+   },
+   "BF": {
+      "countryName": "Burkina Faso",
+      "capital": "Ouagadougou",
+      "phoneCode": "+226",
+      "continentCode": "AF",
+      "currencyCode": "XOF",
+      "iso3Code": "BFA"
+   },
+   "BG": {
+      "countryName": "Bulgaria",
+      "capital": "Sofia",
+      "phoneCode": "+359",
+      "continentCode": "EU",
+      "currencyCode": "BGN",
+      "iso3Code": "BGR"
+   },
+   "BH": {
+      "countryName": "Bahrain",
+      "capital": "Manama",
+      "phoneCode": "+973",
+      "continentCode": "AS",
+      "currencyCode": "BHD",
+      "iso3Code": "BHR"
+   },
+   "BI": {
+      "countryName": "Burundi",
+      "capital": "Bujumbura",
+      "phoneCode": "+257",
+      "continentCode": "AF",
+      "currencyCode": "BIF",
+      "iso3Code": "BDI"
+   },
+   "BJ": {
+      "countryName": "Benin",
+      "capital": "Porto-Novo",
+      "phoneCode": "+229",
+      "continentCode": "AF",
+      "currencyCode": "XOF",
+      "iso3Code": "BEN"
+   },
+   "BL": {
+      "countryName": "Saint Barthelemy",
+      "capital": "Gustavia",
+      "phoneCode": "+590",
+      "continentCode": "NA",
+      "currencyCode": "EUR",
+      "iso3Code": "BLM"
+   },
+   "BM": {
+      "countryName": "Bermuda",
+      "capital": "Hamilton",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "BMD",
+      "iso3Code": "BMU"
+   },
+   "BN": {
+      "countryName": "Brunei",
+      "capital": "Bandar Seri Begawan",
+      "phoneCode": "+673",
+      "continentCode": "AS",
+      "currencyCode": "BND",
+      "iso3Code": "BRN"
+   },
+   "BO": {
+      "countryName": "Bolivia",
+      "capital": "Sucre",
+      "phoneCode": "+591",
+      "continentCode": "SA",
+      "currencyCode": "BOB",
+      "iso3Code": "BOL"
+   },
+   "BQ": {
+      "countryName": "Bonaire, Sint Eustatius and Saba",
+      "capital": null,
+      "phoneCode": "+599",
+      "continentCode": "NA",
+      "currencyCode": "USD",
+      "iso3Code": "BES"
+   },
+   "BR": {
+      "countryName": "Brazil",
+      "capital": "Brasilia",
+      "phoneCode": "+55",
+      "continentCode": "SA",
+      "currencyCode": "BRL",
+      "iso3Code": "BRA"
+   },
+   "BS": {
+      "countryName": "Bahamas",
+      "capital": "Nassau",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "BSD",
+      "iso3Code": "BHS"
+   },
+   "BT": {
+      "countryName": "Bhutan",
+      "capital": "Thimphu",
+      "phoneCode": "+975",
+      "continentCode": "AS",
+      "currencyCode": "BTN",
+      "iso3Code": "BTN"
+   },
+   "BV": {
+      "countryName": "Bouvet Island",
+      "capital": null,
+      "phoneCode": null,
+      "continentCode": "AN",
+      "currencyCode": "NOK",
+      "iso3Code": "BVT"
+   },
+   "BW": {
+      "countryName": "Botswana",
+      "capital": "Gaborone",
+      "phoneCode": "+267",
+      "continentCode": "AF",
+      "currencyCode": "BWP",
+      "iso3Code": "BWA"
+   },
+   "BY": {
+      "countryName": "Belarus",
+      "capital": "Minsk",
+      "phoneCode": "+375",
+      "continentCode": "EU",
+      "currencyCode": "BYR",
+      "iso3Code": "BLR"
+   },
+   "BZ": {
+      "countryName": "Belize",
+      "capital": "Belmopan",
+      "phoneCode": "+501",
+      "continentCode": "NA",
+      "currencyCode": "BZD",
+      "iso3Code": "BLZ"
+   },
+   "CA": {
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "CAD",
+      "iso3Code": "CAN"
+   },
+   "CC": {
+      "countryName": "Cocos Islands",
+      "capital": "West Island",
+      "phoneCode": "+61",
+      "continentCode": "AS",
+      "currencyCode": "AUD",
+      "iso3Code": "CCK"
+   },
+   "CD": {
+      "countryName": "Democratic Republic of the Congo",
+      "capital": "Kinshasa",
+      "phoneCode": "+243",
+      "continentCode": "AF",
+      "currencyCode": "CDF",
+      "iso3Code": "COD"
+   },
+   "CF": {
+      "countryName": "Central African Republic",
+      "capital": "Bangui",
+      "phoneCode": "+236",
+      "continentCode": "AF",
+      "currencyCode": "XAF",
+      "iso3Code": "CAF"
+   },
+   "CG": {
+      "countryName": "Republic of the Congo",
+      "capital": "Brazzaville",
+      "phoneCode": "+242",
+      "continentCode": "AF",
+      "currencyCode": "XAF",
+      "iso3Code": "COG"
+   },
+   "CH": {
+      "countryName": "Switzerland",
+      "capital": "Berne",
+      "phoneCode": "+41",
+      "continentCode": "EU",
+      "currencyCode": "CHF",
+      "iso3Code": "CHE"
+   },
+   "CI": {
+      "countryName": "Ivory Coast",
+      "capital": "Yamoussoukro",
+      "phoneCode": "+225",
+      "continentCode": "AF",
+      "currencyCode": "XOF",
+      "iso3Code": "CIV"
+   },
+   "CK": {
+      "countryName": "Cook Islands",
+      "capital": "Avarua",
+      "phoneCode": "+682",
+      "continentCode": "OC",
+      "currencyCode": "NZD",
+      "iso3Code": "COK"
+   },
+   "CL": {
+      "countryName": "Chile",
+      "capital": "Santiago",
+      "phoneCode": "+56",
+      "continentCode": "SA",
+      "currencyCode": "CLP",
+      "iso3Code": "CHL"
+   },
+   "CM": {
+      "countryName": "Cameroon",
+      "capital": "Yaounde",
+      "phoneCode": "+237",
+      "continentCode": "AF",
+      "currencyCode": "XAF",
+      "iso3Code": "CMR"
+   },
+   "CN": {
+      "countryName": "China",
+      "capital": "Beijing",
+      "phoneCode": "+86",
+      "continentCode": "AS",
+      "currencyCode": "CNY",
+      "iso3Code": "CHN"
+   },
+   "CO": {
+      "countryName": "Colombia",
+      "capital": "Bogota",
+      "phoneCode": "+57",
+      "continentCode": "SA",
+      "currencyCode": "COP",
+      "iso3Code": "COL"
+   },
+   "CR": {
+      "countryName": "Costa Rica",
+      "capital": "San Jose",
+      "phoneCode": "+506",
+      "continentCode": "NA",
+      "currencyCode": "CRC",
+      "iso3Code": "CRI"
+   },
+   "CU": {
+      "countryName": "Cuba",
+      "capital": "Havana",
+      "phoneCode": "+53",
+      "continentCode": "NA",
+      "currencyCode": "CUP",
+      "iso3Code": "CUB"
+   },
+   "CV": {
+      "countryName": "Cape Verde",
+      "capital": "Praia",
+      "phoneCode": "+238",
+      "continentCode": "AF",
+      "currencyCode": "CVE",
+      "iso3Code": "CPV"
+   },
+   "CW": {
+      "countryName": "Curacao",
+      "capital": "Willemstad",
+      "phoneCode": "+599",
+      "continentCode": "NA",
+      "currencyCode": "ANG",
+      "iso3Code": "CUW"
+   },
+   "CX": {
+      "countryName": "Christmas Island",
+      "capital": "Flying Fish Cove",
+      "phoneCode": "+61",
+      "continentCode": "AS",
+      "currencyCode": "AUD",
+      "iso3Code": "CXR"
+   },
+   "CY": {
+      "countryName": "Cyprus",
+      "capital": "Nicosia",
+      "phoneCode": "+357",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "CYP"
+   },
+   "CZ": {
+      "countryName": "Czech Republic",
+      "capital": "Prague",
+      "phoneCode": "+420",
+      "continentCode": "EU",
+      "currencyCode": "CZK",
+      "iso3Code": "CZE"
+   },
+   "DE": {
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "phoneCode": "+49",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "DEU"
+   },
+   "DJ": {
+      "countryName": "Djibouti",
+      "capital": "Djibouti",
+      "phoneCode": "+253",
+      "continentCode": "AF",
+      "currencyCode": "DJF",
+      "iso3Code": "DJI"
+   },
+   "DK": {
+      "countryName": "Denmark",
+      "capital": "Copenhagen",
+      "phoneCode": "+45",
+      "continentCode": "EU",
+      "currencyCode": "DKK",
+      "iso3Code": "DNK"
+   },
+   "DM": {
+      "countryName": "Dominica",
+      "capital": "Roseau",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "XCD",
+      "iso3Code": "DMA"
+   },
+   "DO": {
+      "countryName": "Dominican Republic",
+      "capital": "Santo Domingo",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "DOP",
+      "iso3Code": "DOM"
+   },
+   "DZ": {
+      "countryName": "Algeria",
+      "capital": "Algiers",
+      "phoneCode": "+213",
+      "continentCode": "AF",
+      "currencyCode": "DZD",
+      "iso3Code": "DZA"
+   },
+   "EC": {
+      "countryName": "Ecuador",
+      "capital": "Quito",
+      "phoneCode": "+593",
+      "continentCode": "SA",
+      "currencyCode": "USD",
+      "iso3Code": "ECU"
+   },
+   "EE": {
+      "countryName": "Estonia",
+      "capital": "Tallinn",
+      "phoneCode": "+372",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "EST"
+   },
+   "EG": {
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "phoneCode": "+20",
+      "continentCode": "AF",
+      "currencyCode": "EGP",
+      "iso3Code": "EGY"
+   },
+   "EH": {
+      "countryName": "Western Sahara",
+      "capital": "El-Aaiun",
+      "phoneCode": "+212",
+      "continentCode": "AF",
+      "currencyCode": "MAD",
+      "iso3Code": "ESH"
+   },
+   "ER": {
+      "countryName": "Eritrea",
+      "capital": "Asmara",
+      "phoneCode": "+291",
+      "continentCode": "AF",
+      "currencyCode": "ERN",
+      "iso3Code": "ERI"
+   },
+   "ES": {
+      "countryName": "Spain",
+      "capital": "Madrid",
+      "phoneCode": "+34",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "ESP"
+   },
+   "ET": {
+      "countryName": "Ethiopia",
+      "capital": "Addis Ababa",
+      "phoneCode": "+251",
+      "continentCode": "AF",
+      "currencyCode": "ETB",
+      "iso3Code": "ETH"
+   },
+   "FI": {
+      "countryName": "Finland",
+      "capital": "Helsinki",
+      "phoneCode": "+358",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "FIN"
+   },
+   "FJ": {
+      "countryName": "Fiji",
+      "capital": "Suva",
+      "phoneCode": "+679",
+      "continentCode": "OC",
+      "currencyCode": "FJD",
+      "iso3Code": "FJI"
+   },
+   "FK": {
+      "countryName": "Falkland Islands",
+      "capital": "Stanley",
+      "phoneCode": "+500",
+      "continentCode": "SA",
+      "currencyCode": "FKP",
+      "iso3Code": "FLK"
+   },
+   "FM": {
+      "countryName": "Micronesia",
+      "capital": "Palikir",
+      "phoneCode": "+691",
+      "continentCode": "OC",
+      "currencyCode": "USD",
+      "iso3Code": "FSM"
+   },
+   "FO": {
+      "countryName": "Faroe Islands",
+      "capital": "Torshavn",
+      "phoneCode": "+298",
+      "continentCode": "EU",
+      "currencyCode": "DKK",
+      "iso3Code": "FRO"
+   },
+   "FR": {
+      "countryName": "France",
+      "capital": "Paris",
+      "phoneCode": "+33",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "FRA"
+   },
+   "GA": {
+      "countryName": "Gabon",
+      "capital": "Libreville",
+      "phoneCode": "+241",
+      "continentCode": "AF",
+      "currencyCode": "XAF",
+      "iso3Code": "GAB"
+   },
+   "GB": {
+      "countryName": "United Kingdom",
+      "capital": "London",
+      "phoneCode": "+44",
+      "continentCode": "EU",
+      "currencyCode": "GBP",
+      "iso3Code": "GBR"
+   },
+   "GD": {
+      "countryName": "Grenada",
+      "capital": "St. George's",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "XCD",
+      "iso3Code": "GRD"
+   },
+   "GE": {
+      "countryName": "Georgia",
+      "capital": "Tbilisi",
+      "phoneCode": "+995",
+      "continentCode": "AS",
+      "currencyCode": "GEL",
+      "iso3Code": "GEO"
+   },
+   "GF": {
+      "countryName": "French Guiana",
+      "capital": "Cayenne",
+      "phoneCode": "+594",
+      "continentCode": "SA",
+      "currencyCode": "EUR",
+      "iso3Code": "GUF"
+   },
+   "GG": {
+      "countryName": "Guernsey",
+      "capital": "St Peter Port",
+      "phoneCode": "+44",
+      "continentCode": "EU",
+      "currencyCode": "GBP",
+      "iso3Code": "GGY"
+   },
+   "GH": {
+      "countryName": "Ghana",
+      "capital": "Accra",
+      "phoneCode": "+233",
+      "continentCode": "AF",
+      "currencyCode": "GHS",
+      "iso3Code": "GHA"
+   },
+   "GI": {
+      "countryName": "Gibraltar",
+      "capital": "Gibraltar",
+      "phoneCode": "+350",
+      "continentCode": "EU",
+      "currencyCode": "GIP",
+      "iso3Code": "GIB"
+   },
+   "GL": {
+      "countryName": "Greenland",
+      "capital": "Nuuk",
+      "phoneCode": "+299",
+      "continentCode": "NA",
+      "currencyCode": "DKK",
+      "iso3Code": "GRL"
+   },
+   "GM": {
+      "countryName": "Gambia",
+      "capital": "Banjul",
+      "phoneCode": "+220",
+      "continentCode": "AF",
+      "currencyCode": "GMD",
+      "iso3Code": "GMB"
+   },
+   "GN": {
+      "countryName": "Guinea",
+      "capital": "Conakry",
+      "phoneCode": "+224",
+      "continentCode": "AF",
+      "currencyCode": "GNF",
+      "iso3Code": "GIN"
+   },
+   "GP": {
+      "countryName": "Guadeloupe",
+      "capital": "Basse-Terre",
+      "phoneCode": "+590",
+      "continentCode": "NA",
+      "currencyCode": "EUR",
+      "iso3Code": "GLP"
+   },
+   "GQ": {
+      "countryName": "Equatorial Guinea",
+      "capital": "Malabo",
+      "phoneCode": "+240",
+      "continentCode": "AF",
+      "currencyCode": "XAF",
+      "iso3Code": "GNQ"
+   },
+   "GR": {
+      "countryName": "Greece",
+      "capital": "Athens",
+      "phoneCode": "+30",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "GRC"
+   },
+   "GS": {
+      "countryName": "South Georgia and the South Sandwich Islands",
+      "capital": "Grytviken",
+      "phoneCode": "+500",
+      "continentCode": "AN",
+      "currencyCode": "GBP",
+      "iso3Code": "SGS"
+   },
+   "GT": {
+      "countryName": "Guatemala",
+      "capital": "Guatemala City",
+      "phoneCode": "+502",
+      "continentCode": "NA",
+      "currencyCode": "GTQ",
+      "iso3Code": "GTM"
+   },
+   "GU": {
+      "countryName": "Guam",
+      "capital": "Hagatna",
+      "phoneCode": "+1",
+      "continentCode": "OC",
+      "currencyCode": "USD",
+      "iso3Code": "GUM"
+   },
+   "GW": {
+      "countryName": "Guinea-Bissau",
+      "capital": "Bissau",
+      "phoneCode": "+245",
+      "continentCode": "AF",
+      "currencyCode": "XOF",
+      "iso3Code": "GNB"
+   },
+   "GY": {
+      "countryName": "Guyana",
+      "capital": "Georgetown",
+      "phoneCode": "+592",
+      "continentCode": "SA",
+      "currencyCode": "GYD",
+      "iso3Code": "GUY"
+   },
+   "HK": {
+      "countryName": "Hong Kong",
+      "capital": "Hong Kong",
+      "phoneCode": "+852",
+      "continentCode": "AS",
+      "currencyCode": "HKD",
+      "iso3Code": "HKG"
+   },
+   "HM": {
+      "countryName": "Heard Island and McDonald Islands",
+      "capital": null,
+      "phoneCode": "+672",
+      "continentCode": "AN",
+      "currencyCode": "AUD",
+      "iso3Code": "HMD"
+   },
+   "HN": {
+      "countryName": "Honduras",
+      "capital": "Tegucigalpa",
+      "phoneCode": "+504",
+      "continentCode": "NA",
+      "currencyCode": "HNL",
+      "iso3Code": "HND"
+   },
+   "HR": {
+      "countryName": "Croatia",
+      "capital": "Zagreb",
+      "phoneCode": "+385",
+      "continentCode": "EU",
+      "currencyCode": "HRK",
+      "iso3Code": "HRV"
+   },
+   "HT": {
+      "countryName": "Haiti",
+      "capital": "Port-au-Prince",
+      "phoneCode": "+509",
+      "continentCode": "NA",
+      "currencyCode": "HTG",
+      "iso3Code": "HTI"
+   },
+   "HU": {
+      "countryName": "Hungary",
+      "capital": "Budapest",
+      "phoneCode": "+36",
+      "continentCode": "EU",
+      "currencyCode": "HUF",
+      "iso3Code": "HUN"
+   },
+   "ID": {
+      "countryName": "Indonesia",
+      "capital": "Jakarta",
+      "phoneCode": "+62",
+      "continentCode": "AS",
+      "currencyCode": "IDR",
+      "iso3Code": "IDN"
+   },
+   "IE": {
+      "countryName": "Ireland",
+      "capital": "Dublin",
+      "phoneCode": "+353",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "IRL"
+   },
+   "IL": {
+      "countryName": "Israel",
+      "capital": "Jerusalem",
+      "phoneCode": "+972",
+      "continentCode": "AS",
+      "currencyCode": "ILS",
+      "iso3Code": "ISR"
+   },
+   "IM": {
+      "countryName": "Isle of Man",
+      "capital": "Douglas, Isle of Man",
+      "phoneCode": "+44",
+      "continentCode": "EU",
+      "currencyCode": "GBP",
+      "iso3Code": "IMN"
+   },
+   "IN": {
+      "countryName": "India",
+      "capital": "New Delhi",
+      "phoneCode": "+91",
+      "continentCode": "AS",
+      "currencyCode": "INR",
+      "iso3Code": "IND"
+   },
+   "IO": {
+      "countryName": "British Indian Ocean Territory",
+      "capital": "Diego Garcia",
+      "phoneCode": "+246",
+      "continentCode": "AS",
+      "currencyCode": "USD",
+      "iso3Code": "IOT"
+   },
+   "IQ": {
+      "countryName": "Iraq",
+      "capital": "Baghdad",
+      "phoneCode": "+964",
+      "continentCode": "AS",
+      "currencyCode": "IQD",
+      "iso3Code": "IRQ"
+   },
+   "IR": {
+      "countryName": "Iran",
+      "capital": "Tehran",
+      "phoneCode": "+98",
+      "continentCode": "AS",
+      "currencyCode": "IRR",
+      "iso3Code": "IRN"
+   },
+   "IS": {
+      "countryName": "Iceland",
+      "capital": "Reykjavik",
+      "phoneCode": "+354",
+      "continentCode": "EU",
+      "currencyCode": "ISK",
+      "iso3Code": "ISL"
+   },
+   "IT": {
+      "countryName": "Italy",
+      "capital": "Rome",
+      "phoneCode": "+39",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "ITA"
+   },
+   "JE": {
+      "countryName": "Jersey",
+      "capital": "Saint Helier",
+      "phoneCode": "+44",
+      "continentCode": "EU",
+      "currencyCode": "GBP",
+      "iso3Code": "JEY"
+   },
+   "JM": {
+      "countryName": "Jamaica",
+      "capital": "Kingston",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "JMD",
+      "iso3Code": "JAM"
+   },
+   "JO": {
+      "countryName": "Jordan",
+      "capital": "Amman",
+      "phoneCode": "+962",
+      "continentCode": "AS",
+      "currencyCode": "JOD",
+      "iso3Code": "JOR"
+   },
+   "JP": {
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "phoneCode": "+81",
+      "continentCode": "AS",
+      "currencyCode": "JPY",
+      "iso3Code": "JPN"
+   },
+   "KE": {
+      "countryName": "Kenya",
+      "capital": "Nairobi",
+      "phoneCode": "+254",
+      "continentCode": "AF",
+      "currencyCode": "KES",
+      "iso3Code": "KEN"
+   },
+   "KG": {
+      "countryName": "Kyrgyzstan",
+      "capital": "Bishkek",
+      "phoneCode": "+996",
+      "continentCode": "AS",
+      "currencyCode": "KGS",
+      "iso3Code": "KGZ"
+   },
+   "KH": {
+      "countryName": "Cambodia",
+      "capital": "Phnom Penh",
+      "phoneCode": "+855",
+      "continentCode": "AS",
+      "currencyCode": "KHR",
+      "iso3Code": "KHM"
+   },
+   "KI": {
+      "countryName": "Kiribati",
+      "capital": "Tarawa",
+      "phoneCode": "+686",
+      "continentCode": "OC",
+      "currencyCode": "AUD",
+      "iso3Code": "KIR"
+   },
+   "KM": {
+      "countryName": "Comoros",
+      "capital": "Moroni",
+      "phoneCode": "+269",
+      "continentCode": "AF",
+      "currencyCode": "KMF",
+      "iso3Code": "COM"
+   },
+   "KN": {
+      "countryName": "Saint Kitts and Nevis",
+      "capital": "Basseterre",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "XCD",
+      "iso3Code": "KNA"
+   },
+   "KP": {
+      "countryName": "North Korea",
+      "capital": "Pyongyang",
+      "phoneCode": "+850",
+      "continentCode": "AS",
+      "currencyCode": "KPW",
+      "iso3Code": "PRK"
+   },
+   "KR": {
+      "countryName": "South Korea",
+      "capital": "Seoul",
+      "phoneCode": "+82",
+      "continentCode": "AS",
+      "currencyCode": "KRW",
+      "iso3Code": "KOR"
+   },
+   "KW": {
+      "countryName": "Kuwait",
+      "capital": "Kuwait City",
+      "phoneCode": "+965",
+      "continentCode": "AS",
+      "currencyCode": "KWD",
+      "iso3Code": "KWT"
+   },
+   "KY": {
+      "countryName": "Cayman Islands",
+      "capital": "George Town",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "KYD",
+      "iso3Code": "CYM"
+   },
+   "KZ": {
+      "countryName": "Kazakhstan",
+      "capital": "Astana",
+      "phoneCode": "+7",
+      "continentCode": "AS",
+      "currencyCode": "KZT",
+      "iso3Code": "KAZ"
+   },
+   "LA": {
+      "countryName": "Laos",
+      "capital": "Vientiane",
+      "phoneCode": "+856",
+      "continentCode": "AS",
+      "currencyCode": "LAK",
+      "iso3Code": "LAO"
+   },
+   "LB": {
+      "countryName": "Lebanon",
+      "capital": "Beirut",
+      "phoneCode": "+961",
+      "continentCode": "AS",
+      "currencyCode": "LBP",
+      "iso3Code": "LBN"
+   },
+   "LC": {
+      "countryName": "Saint Lucia",
+      "capital": "Castries",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "XCD",
+      "iso3Code": "LCA"
+   },
+   "LI": {
+      "countryName": "Liechtenstein",
+      "capital": "Vaduz",
+      "phoneCode": "+423",
+      "continentCode": "EU",
+      "currencyCode": "CHF",
+      "iso3Code": "LIE"
+   },
+   "LK": {
+      "countryName": "Sri Lanka",
+      "capital": "Colombo",
+      "phoneCode": "+94",
+      "continentCode": "AS",
+      "currencyCode": "LKR",
+      "iso3Code": "LKA"
+   },
+   "LR": {
+      "countryName": "Liberia",
+      "capital": "Monrovia",
+      "phoneCode": "+231",
+      "continentCode": "AF",
+      "currencyCode": "LRD",
+      "iso3Code": "LBR"
+   },
+   "LS": {
+      "countryName": "Lesotho",
+      "capital": "Maseru",
+      "phoneCode": "+266",
+      "continentCode": "AF",
+      "currencyCode": "LSL",
+      "iso3Code": "LSO"
+   },
+   "LT": {
+      "countryName": "Lithuania",
+      "capital": "Vilnius",
+      "phoneCode": "+370",
+      "continentCode": "EU",
+      "currencyCode": "LTL",
+      "iso3Code": "LTU"
+   },
+   "LU": {
+      "countryName": "Luxembourg",
+      "capital": "Luxembourg",
+      "phoneCode": "+352",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "LUX"
+   },
+   "LV": {
+      "countryName": "Latvia",
+      "capital": "Riga",
+      "phoneCode": "+371",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "LVA"
+   },
+   "LY": {
+      "countryName": "Libya",
+      "capital": "Tripolis",
+      "phoneCode": "+218",
+      "continentCode": "AF",
+      "currencyCode": "LYD",
+      "iso3Code": "LBY"
+   },
+   "MA": {
+      "countryName": "Morocco",
+      "capital": "Rabat",
+      "phoneCode": "+212",
+      "continentCode": "AF",
+      "currencyCode": "MAD",
+      "iso3Code": "MAR"
+   },
+   "MC": {
+      "countryName": "Monaco",
+      "capital": "Monaco",
+      "phoneCode": "+377",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "MCO"
+   },
+   "MD": {
+      "countryName": "Moldova",
+      "capital": "Chisinau",
+      "phoneCode": "+373",
+      "continentCode": "EU",
+      "currencyCode": "MDL",
+      "iso3Code": "MDA"
+   },
+   "ME": {
+      "countryName": "Montenegro",
+      "capital": "Podgorica",
+      "phoneCode": "+382",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "MNE"
+   },
+   "MF": {
+      "countryName": "Saint Martin",
+      "capital": "Marigot",
+      "phoneCode": "+590",
+      "continentCode": "NA",
+      "currencyCode": "EUR",
+      "iso3Code": "MAF"
+   },
+   "MG": {
+      "countryName": "Madagascar",
+      "capital": "Antananarivo",
+      "phoneCode": "+261",
+      "continentCode": "AF",
+      "currencyCode": "MGA",
+      "iso3Code": "MDG"
+   },
+   "MH": {
+      "countryName": "Marshall Islands",
+      "capital": "Majuro",
+      "phoneCode": "+692",
+      "continentCode": "OC",
+      "currencyCode": "USD",
+      "iso3Code": "MHL"
+   },
+   "MK": {
+      "countryName": "Macedonia",
+      "capital": "Skopje",
+      "phoneCode": "+389",
+      "continentCode": "EU",
+      "currencyCode": "MKD",
+      "iso3Code": "MKD"
+   },
+   "ML": {
+      "countryName": "Mali",
+      "capital": "Bamako",
+      "phoneCode": "+223",
+      "continentCode": "AF",
+      "currencyCode": "XOF",
+      "iso3Code": "MLI"
+   },
+   "MM": {
+      "countryName": "Myanmar",
+      "capital": "Nay Pyi Taw",
+      "phoneCode": "+95",
+      "continentCode": "AS",
+      "currencyCode": "MMK",
+      "iso3Code": "MMR"
+   },
+   "MN": {
+      "countryName": "Mongolia",
+      "capital": "Ulan Bator",
+      "phoneCode": "+976",
+      "continentCode": "AS",
+      "currencyCode": "MNT",
+      "iso3Code": "MNG"
+   },
+   "MO": {
+      "countryName": "Macao",
+      "capital": "Macao",
+      "phoneCode": "+853",
+      "continentCode": "AS",
+      "currencyCode": "MOP",
+      "iso3Code": "MAC"
+   },
+   "MP": {
+      "countryName": "Northern Mariana Islands",
+      "capital": "Saipan",
+      "phoneCode": "+1",
+      "continentCode": "OC",
+      "currencyCode": "USD",
+      "iso3Code": "MNP"
+   },
+   "MQ": {
+      "countryName": "Martinique",
+      "capital": "Fort-de-France",
+      "phoneCode": "+596",
+      "continentCode": "NA",
+      "currencyCode": "EUR",
+      "iso3Code": "MTQ"
+   },
+   "MR": {
+      "countryName": "Mauritania",
+      "capital": "Nouakchott",
+      "phoneCode": "+222",
+      "continentCode": "AF",
+      "currencyCode": "MRO",
+      "iso3Code": "MRT"
+   },
+   "MS": {
+      "countryName": "Montserrat",
+      "capital": "Plymouth",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "XCD",
+      "iso3Code": "MSR"
+   },
+   "MT": {
+      "countryName": "Malta",
+      "capital": "Valletta",
+      "phoneCode": "+356",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "MLT"
+   },
+   "MU": {
+      "countryName": "Mauritius",
+      "capital": "Port Louis",
+      "phoneCode": "+230",
+      "continentCode": "AF",
+      "currencyCode": "MUR",
+      "iso3Code": "MUS"
+   },
+   "MV": {
+      "countryName": "Maldives",
+      "capital": "Male",
+      "phoneCode": "+960",
+      "continentCode": "AS",
+      "currencyCode": "MVR",
+      "iso3Code": "MDV"
+   },
+   "MW": {
+      "countryName": "Malawi",
+      "capital": "Lilongwe",
+      "phoneCode": "+265",
+      "continentCode": "AF",
+      "currencyCode": "MWK",
+      "iso3Code": "MWI"
+   },
+   "MX": {
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "phoneCode": "+52",
+      "continentCode": "NA",
+      "currencyCode": "MXN",
+      "iso3Code": "MEX"
+   },
+   "MY": {
+      "countryName": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "phoneCode": "+60",
+      "continentCode": "AS",
+      "currencyCode": "MYR",
+      "iso3Code": "MYS"
+   },
+   "MZ": {
+      "countryName": "Mozambique",
+      "capital": "Maputo",
+      "phoneCode": "+258",
+      "continentCode": "AF",
+      "currencyCode": "MZN",
+      "iso3Code": "MOZ"
+   },
+   "NA": {
+      "countryName": "Namibia",
+      "capital": "Windhoek",
+      "phoneCode": "+264",
+      "continentCode": "AF",
+      "currencyCode": "NAD",
+      "iso3Code": "NAM"
+   },
+   "NC": {
+      "countryName": "New Caledonia",
+      "capital": "Noumea",
+      "phoneCode": "+687",
+      "continentCode": "OC",
+      "currencyCode": "XPF",
+      "iso3Code": "NCL"
+   },
+   "NE": {
+      "countryName": "Niger",
+      "capital": "Niamey",
+      "phoneCode": "+227",
+      "continentCode": "AF",
+      "currencyCode": "XOF",
+      "iso3Code": "NER"
+   },
+   "NF": {
+      "countryName": "Norfolk Island",
+      "capital": "Kingston",
+      "phoneCode": "+672",
+      "continentCode": "OC",
+      "currencyCode": "AUD",
+      "iso3Code": "NFK"
+   },
+   "NG": {
+      "countryName": "Nigeria",
+      "capital": "Abuja",
+      "phoneCode": "+234",
+      "continentCode": "AF",
+      "currencyCode": "NGN",
+      "iso3Code": "NGA"
+   },
+   "NI": {
+      "countryName": "Nicaragua",
+      "capital": "Managua",
+      "phoneCode": "+505",
+      "continentCode": "NA",
+      "currencyCode": "NIO",
+      "iso3Code": "NIC"
+   },
+   "NL": {
+      "countryName": "Netherlands",
+      "capital": "Amsterdam",
+      "phoneCode": "+31",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "NLD"
+   },
+   "NO": {
+      "countryName": "Norway",
+      "capital": "Oslo",
+      "phoneCode": "+47",
+      "continentCode": "EU",
+      "currencyCode": "NOK",
+      "iso3Code": "NOR"
+   },
+   "NP": {
+      "countryName": "Nepal",
+      "capital": "Kathmandu",
+      "phoneCode": "+977",
+      "continentCode": "AS",
+      "currencyCode": "NPR",
+      "iso3Code": "NPL"
+   },
+   "NR": {
+      "countryName": "Nauru",
+      "capital": "Yaren",
+      "phoneCode": "+674",
+      "continentCode": "OC",
+      "currencyCode": "AUD",
+      "iso3Code": "NRU"
+   },
+   "NU": {
+      "countryName": "Niue",
+      "capital": "Alofi",
+      "phoneCode": "+683",
+      "continentCode": "OC",
+      "currencyCode": "NZD",
+      "iso3Code": "NIU"
+   },
+   "NZ": {
+      "countryName": "New Zealand",
+      "capital": "Wellington",
+      "phoneCode": "+64",
+      "continentCode": "OC",
+      "currencyCode": "NZD",
+      "iso3Code": "NZL"
+   },
+   "OM": {
+      "countryName": "Oman",
+      "capital": "Muscat",
+      "phoneCode": "+968",
+      "continentCode": "AS",
+      "currencyCode": "OMR",
+      "iso3Code": "OMN"
+   },
+   "PA": {
+      "countryName": "Panama",
+      "capital": "Panama City",
+      "phoneCode": "+507",
+      "continentCode": "NA",
+      "currencyCode": "PAB",
+      "iso3Code": "PAN"
+   },
+   "PE": {
+      "countryName": "Peru",
+      "capital": "Lima",
+      "phoneCode": "+51",
+      "continentCode": "SA",
+      "currencyCode": "PEN",
+      "iso3Code": "PER"
+   },
+   "PF": {
+      "countryName": "French Polynesia",
+      "capital": "Papeete",
+      "phoneCode": "+689",
+      "continentCode": "OC",
+      "currencyCode": "XPF",
+      "iso3Code": "PYF"
+   },
+   "PG": {
+      "countryName": "Papua New Guinea",
+      "capital": "Port Moresby",
+      "phoneCode": "+675",
+      "continentCode": "OC",
+      "currencyCode": "PGK",
+      "iso3Code": "PNG"
+   },
+   "PH": {
+      "countryName": "Philippines",
+      "capital": "Manila",
+      "phoneCode": "+63",
+      "continentCode": "AS",
+      "currencyCode": "PHP",
+      "iso3Code": "PHL"
+   },
+   "PK": {
+      "countryName": "Pakistan",
+      "capital": "Islamabad",
+      "phoneCode": "+92",
+      "continentCode": "AS",
+      "currencyCode": "PKR",
+      "iso3Code": "PAK"
+   },
+   "PL": {
+      "countryName": "Poland",
+      "capital": "Warsaw",
+      "phoneCode": "+48",
+      "continentCode": "EU",
+      "currencyCode": "PLN",
+      "iso3Code": "POL"
+   },
+   "PM": {
+      "countryName": "Saint Pierre and Miquelon",
+      "capital": "Saint-Pierre",
+      "phoneCode": "+508",
+      "continentCode": "NA",
+      "currencyCode": "EUR",
+      "iso3Code": "SPM"
+   },
+   "PN": {
+      "countryName": "Pitcairn",
+      "capital": "Adamstown",
+      "phoneCode": "+64",
+      "continentCode": "OC",
+      "currencyCode": "NZD",
+      "iso3Code": "PCN"
+   },
+   "PR": {
+      "countryName": "Puerto Rico",
+      "capital": "San Juan",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "USD",
+      "iso3Code": "PRI"
+   },
+   "PS": {
+      "countryName": "Palestinian Territory",
+      "capital": "East Jerusalem",
+      "phoneCode": "+970",
+      "continentCode": "AS",
+      "currencyCode": "ILS",
+      "iso3Code": "PSE"
+   },
+   "PT": {
+      "countryName": "Portugal",
+      "capital": "Lisbon",
+      "phoneCode": "+351",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "PRT"
+   },
+   "PW": {
+      "countryName": "Palau",
+      "capital": "Melekeok",
+      "phoneCode": "+680",
+      "continentCode": "OC",
+      "currencyCode": "USD",
+      "iso3Code": "PLW"
+   },
+   "PY": {
+      "countryName": "Paraguay",
+      "capital": "Asuncion",
+      "phoneCode": "+595",
+      "continentCode": "SA",
+      "currencyCode": "PYG",
+      "iso3Code": "PRY"
+   },
+   "QA": {
+      "countryName": "Qatar",
+      "capital": "Doha",
+      "phoneCode": "+974",
+      "continentCode": "AS",
+      "currencyCode": "QAR",
+      "iso3Code": "QAT"
+   },
+   "RE": {
+      "countryName": "Reunion",
+      "capital": "Saint-Denis",
+      "phoneCode": "+262",
+      "continentCode": "AF",
+      "currencyCode": "EUR",
+      "iso3Code": "REU"
+   },
+   "RO": {
+      "countryName": "Romania",
+      "capital": "Bucharest",
+      "phoneCode": "+40",
+      "continentCode": "EU",
+      "currencyCode": "RON",
+      "iso3Code": "ROU"
+   },
+   "RS": {
+      "countryName": "Serbia",
+      "capital": "Belgrade",
+      "phoneCode": "+381",
+      "continentCode": "EU",
+      "currencyCode": "RSD",
+      "iso3Code": "SRB"
+   },
+   "RU": {
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "phoneCode": "+7",
+      "continentCode": "EU",
+      "currencyCode": "RUB",
+      "iso3Code": "RUS"
+   },
+   "RW": {
+      "countryName": "Rwanda",
+      "capital": "Kigali",
+      "phoneCode": "+250",
+      "continentCode": "AF",
+      "currencyCode": "RWF",
+      "iso3Code": "RWA"
+   },
+   "SA": {
+      "countryName": "Saudi Arabia",
+      "capital": "Riyadh",
+      "phoneCode": "+966",
+      "continentCode": "AS",
+      "currencyCode": "SAR",
+      "iso3Code": "SAU"
+   },
+   "SB": {
+      "countryName": "Solomon Islands",
+      "capital": "Honiara",
+      "phoneCode": "+677",
+      "continentCode": "OC",
+      "currencyCode": "SBD",
+      "iso3Code": "SLB"
+   },
+   "SC": {
+      "countryName": "Seychelles",
+      "capital": "Victoria",
+      "phoneCode": "+248",
+      "continentCode": "AF",
+      "currencyCode": "SCR",
+      "iso3Code": "SYC"
+   },
+   "SD": {
+      "countryName": "Sudan",
+      "capital": "Khartoum",
+      "phoneCode": "+249",
+      "continentCode": "AF",
+      "currencyCode": "SDG",
+      "iso3Code": "SDN"
+   },
+   "SE": {
+      "countryName": "Sweden",
+      "capital": "Stockholm",
+      "phoneCode": "+46",
+      "continentCode": "EU",
+      "currencyCode": "SEK",
+      "iso3Code": "SWE"
+   },
+   "SG": {
+      "countryName": "Singapore",
+      "capital": "Singapur",
+      "phoneCode": "+65",
+      "continentCode": "AS",
+      "currencyCode": "SGD",
+      "iso3Code": "SGP"
+   },
+   "SH": {
+      "countryName": "Saint Helena",
+      "capital": "Jamestown",
+      "phoneCode": "+290",
+      "continentCode": "AF",
+      "currencyCode": "SHP",
+      "iso3Code": "SHN"
+   },
+   "SI": {
+      "countryName": "Slovenia",
+      "capital": "Ljubljana",
+      "phoneCode": "+386",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "SVN"
+   },
+   "SJ": {
+      "countryName": "Svalbard and Jan Mayen",
+      "capital": "Longyearbyen",
+      "phoneCode": "+47",
+      "continentCode": "EU",
+      "currencyCode": "NOK",
+      "iso3Code": "SJM"
+   },
+   "SK": {
+      "countryName": "Slovakia",
+      "capital": "Bratislava",
+      "phoneCode": "+421",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "SVK"
+   },
+   "SL": {
+      "countryName": "Sierra Leone",
+      "capital": "Freetown",
+      "phoneCode": "+232",
+      "continentCode": "AF",
+      "currencyCode": "SLL",
+      "iso3Code": "SLE"
+   },
+   "SM": {
+      "countryName": "San Marino",
+      "capital": "San Marino",
+      "phoneCode": "+378",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "SMR"
+   },
+   "SN": {
+      "countryName": "Senegal",
+      "capital": "Dakar",
+      "phoneCode": "+221",
+      "continentCode": "AF",
+      "currencyCode": "XOF",
+      "iso3Code": "SEN"
+   },
+   "SO": {
+      "countryName": "Somalia",
+      "capital": "Mogadishu",
+      "phoneCode": "+252",
+      "continentCode": "AF",
+      "currencyCode": "SOS",
+      "iso3Code": "SOM"
+   },
+   "SR": {
+      "countryName": "Suriname",
+      "capital": "Paramaribo",
+      "phoneCode": "+597",
+      "continentCode": "SA",
+      "currencyCode": "SRD",
+      "iso3Code": "SUR"
+   },
+   "SS": {
+      "countryName": "South Sudan",
+      "capital": "Juba",
+      "phoneCode": "+211",
+      "continentCode": "AF",
+      "currencyCode": "SSP",
+      "iso3Code": "SSD"
+   },
+   "ST": {
+      "countryName": "Sao Tome and Principe",
+      "capital": "Sao Tome",
+      "phoneCode": "+239",
+      "continentCode": "AF",
+      "currencyCode": "STD",
+      "iso3Code": "STP"
+   },
+   "SV": {
+      "countryName": "El Salvador",
+      "capital": "San Salvador",
+      "phoneCode": "+503",
+      "continentCode": "NA",
+      "currencyCode": "USD",
+      "iso3Code": "SLV"
+   },
+   "SX": {
+      "countryName": "Sint Maarten",
+      "capital": "Philipsburg",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "ANG",
+      "iso3Code": "SXM"
+   },
+   "SY": {
+      "countryName": "Syria",
+      "capital": "Damascus",
+      "phoneCode": "+963",
+      "continentCode": "AS",
+      "currencyCode": "SYP",
+      "iso3Code": "SYR"
+   },
+   "SZ": {
+      "countryName": "Swaziland",
+      "capital": "Mbabane",
+      "phoneCode": "+268",
+      "continentCode": "AF",
+      "currencyCode": "SZL",
+      "iso3Code": "SWZ"
+   },
+   "TC": {
+      "countryName": "Turks and Caicos Islands",
+      "capital": "Cockburn Town",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "USD",
+      "iso3Code": "TCA"
+   },
+   "TD": {
+      "countryName": "Chad",
+      "capital": "N'Djamena",
+      "phoneCode": "+235",
+      "continentCode": "AF",
+      "currencyCode": "XAF",
+      "iso3Code": "TCD"
+   },
+   "TF": {
+      "countryName": "French Southern Territories",
+      "capital": "Port-aux-Francais",
+      "phoneCode": "+262",
+      "continentCode": "AN",
+      "currencyCode": "EUR",
+      "iso3Code": "ATF"
+   },
+   "TG": {
+      "countryName": "Togo",
+      "capital": "Lome",
+      "phoneCode": "+228",
+      "continentCode": "AF",
+      "currencyCode": "XOF",
+      "iso3Code": "TGO"
+   },
+   "TH": {
+      "countryName": "Thailand",
+      "capital": "Bangkok",
+      "phoneCode": "+66",
+      "continentCode": "AS",
+      "currencyCode": "THB",
+      "iso3Code": "THA"
+   },
+   "TJ": {
+      "countryName": "Tajikistan",
+      "capital": "Dushanbe",
+      "phoneCode": "+992",
+      "continentCode": "AS",
+      "currencyCode": "TJS",
+      "iso3Code": "TJK"
+   },
+   "TK": {
+      "countryName": "Tokelau",
+      "capital": "Nukunonu",
+      "phoneCode": "+690",
+      "continentCode": "OC",
+      "currencyCode": "NZD",
+      "iso3Code": "TKL"
+   },
+   "TL": {
+      "countryName": "East Timor",
+      "capital": "Dili",
+      "phoneCode": "+670",
+      "continentCode": "OC",
+      "currencyCode": "USD",
+      "iso3Code": "TLS"
+   },
+   "TM": {
+      "countryName": "Turkmenistan",
+      "capital": "Ashgabat",
+      "phoneCode": "+993",
+      "continentCode": "AS",
+      "currencyCode": "TMT",
+      "iso3Code": "TKM"
+   },
+   "TN": {
+      "countryName": "Tunisia",
+      "capital": "Tunis",
+      "phoneCode": "+216",
+      "continentCode": "AF",
+      "currencyCode": "TND",
+      "iso3Code": "TUN"
+   },
+   "TO": {
+      "countryName": "Tonga",
+      "capital": "Nuku'alofa",
+      "phoneCode": "+676",
+      "continentCode": "OC",
+      "currencyCode": "TOP",
+      "iso3Code": "TON"
+   },
+   "TR": {
+      "countryName": "Turkey",
+      "capital": "Ankara",
+      "phoneCode": "+90",
+      "continentCode": "AS",
+      "currencyCode": "TRY",
+      "iso3Code": "TUR"
+   },
+   "TT": {
+      "countryName": "Trinidad and Tobago",
+      "capital": "Port of Spain",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "TTD",
+      "iso3Code": "TTO"
+   },
+   "TV": {
+      "countryName": "Tuvalu",
+      "capital": "Funafuti",
+      "phoneCode": "+688",
+      "continentCode": "OC",
+      "currencyCode": "AUD",
+      "iso3Code": "TUV"
+   },
+   "TW": {
+      "countryName": "Taiwan",
+      "capital": "Taipei",
+      "phoneCode": "+886",
+      "continentCode": "AS",
+      "currencyCode": "TWD",
+      "iso3Code": "TWN"
+   },
+   "TZ": {
+      "countryName": "Tanzania",
+      "capital": "Dodoma",
+      "phoneCode": "+255",
+      "continentCode": "AF",
+      "currencyCode": "TZS",
+      "iso3Code": "TZA"
+   },
+   "UA": {
+      "countryName": "Ukraine",
+      "capital": "Kiev",
+      "phoneCode": "+380",
+      "continentCode": "EU",
+      "currencyCode": "UAH",
+      "iso3Code": "UKR"
+   },
+   "UG": {
+      "countryName": "Uganda",
+      "capital": "Kampala",
+      "phoneCode": "+256",
+      "continentCode": "AF",
+      "currencyCode": "UGX",
+      "iso3Code": "UGA"
+   },
+   "UM": {
+      "countryName": "United States Minor Outlying Islands",
+      "capital": null,
+      "phoneCode": "+1",
+      "continentCode": "OC",
+      "currencyCode": "USD",
+      "iso3Code": "UMI"
+   },
+   "US": {
+      "countryName": "United States",
+      "capital": "Washington",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "USD",
+      "iso3Code": "USA"
+   },
+   "UY": {
+      "countryName": "Uruguay",
+      "capital": "Montevideo",
+      "phoneCode": "+598",
+      "continentCode": "SA",
+      "currencyCode": "UYU",
+      "iso3Code": "URY"
+   },
+   "UZ": {
+      "countryName": "Uzbekistan",
+      "capital": "Tashkent",
+      "phoneCode": "+998",
+      "continentCode": "AS",
+      "currencyCode": "UZS",
+      "iso3Code": "UZB"
+   },
+   "VA": {
+      "countryName": "Vatican",
+      "capital": "Vatican City",
+      "phoneCode": "+379",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "VAT"
+   },
+   "VC": {
+      "countryName": "Saint Vincent and the Grenadines",
+      "capital": "Kingstown",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "XCD",
+      "iso3Code": "VCT"
+   },
+   "VE": {
+      "countryName": "Venezuela",
+      "capital": "Caracas",
+      "phoneCode": "+58",
+      "continentCode": "SA",
+      "currencyCode": "VEF",
+      "iso3Code": "VEN"
+   },
+   "VG": {
+      "countryName": "British Virgin Islands",
+      "capital": "Road Town",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "USD",
+      "iso3Code": "VGB"
+   },
+   "VI": {
+      "countryName": "U.S. Virgin Islands",
+      "capital": "Charlotte Amalie",
+      "phoneCode": "+1",
+      "continentCode": "NA",
+      "currencyCode": "USD",
+      "iso3Code": "VIR"
+   },
+   "VN": {
+      "countryName": "Vietnam",
+      "capital": "Hanoi",
+      "phoneCode": "+84",
+      "continentCode": "AS",
+      "currencyCode": "VND",
+      "iso3Code": "VNM"
+   },
+   "VU": {
+      "countryName": "Vanuatu",
+      "capital": "Port Vila",
+      "phoneCode": "+678",
+      "continentCode": "OC",
+      "currencyCode": "VUV",
+      "iso3Code": "VUT"
+   },
+   "WF": {
+      "countryName": "Wallis and Futuna",
+      "capital": "Mata Utu",
+      "phoneCode": "+681",
+      "continentCode": "OC",
+      "currencyCode": "XPF",
+      "iso3Code": "WLF"
+   },
+   "WS": {
+      "countryName": "Samoa",
+      "capital": "Apia",
+      "phoneCode": "+685",
+      "continentCode": "OC",
+      "currencyCode": "WST",
+      "iso3Code": "WSM"
+   },
+   "XK": {
+      "countryName": "Kosovo",
+      "capital": "Pristina",
+      "phoneCode": "+383",
+      "continentCode": "EU",
+      "currencyCode": "EUR",
+      "iso3Code": "XKX"
+   },
+   "YE": {
+      "countryName": "Yemen",
+      "capital": "Sanaa",
+      "phoneCode": "+967",
+      "continentCode": "AS",
+      "currencyCode": "YER",
+      "iso3Code": "YEM"
+   },
+   "YT": {
+      "countryName": "Mayotte",
+      "capital": "Mamoudzou",
+      "phoneCode": "+262",
+      "continentCode": "AF",
+      "currencyCode": "EUR",
+      "iso3Code": "MYT"
+   },
+   "ZA": {
+      "countryName": "South Africa",
+      "capital": "Pretoria",
+      "phoneCode": "+27",
+      "continentCode": "AF",
+      "currencyCode": "ZAR",
+      "iso3Code": "ZAF"
+   },
+   "ZM": {
+      "countryName": "Zambia",
+      "capital": "Lusaka",
+      "phoneCode": "+260",
+      "continentCode": "AF",
+      "currencyCode": "ZMK",
+      "iso3Code": "ZMB"
+   },
+   "ZW": {
+      "countryName": "Zimbabwe",
+      "capital": "Harare",
+      "phoneCode": "+263",
+      "continentCode": "AF",
+      "currencyCode": "ZWL",
+      "iso3Code": "ZWE"
+   }
+}
